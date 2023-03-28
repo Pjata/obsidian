@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytics.md",
+                "file": "2023-03-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,14 +26,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-28.md",
-                "mode": "preview",
+                "file": "financial decisions.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytics.md",
+                "file": "2023-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,13 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3021bc8e34f35955",
+  "active": "0117adf18dc50534",
   "lastOpenFiles": [
-    "financial decisions.md",
     "Analytics.md",
-    "Tasks.md",
-    "2023-03-28.md",
+    "financial decisions.md",
     "Peter handover.md",
+    "2023-03-28.md",
+    "Tasks.md",
     "SoC2 Catalog.md",
     "2022.md",
     "something.md",
