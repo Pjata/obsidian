@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "ba50c203f8383d0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a071d0aac1a92388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0117adf18dc50534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytics.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "b94f18af65baae3c"
+          },
+          {
+            "id": "3021bc8e34f35955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-28.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47cc09734fe4b1a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75d80a20691d593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6353095e981f846a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d4ed4c5e3c109c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b1cc5f303f56784",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d9e2ec4b5c05dd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ca281974fd73a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a263e02810c14757",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analytics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "b94f18af65baae3c"
+          },
+          {
+            "id": "c65c206a826a149e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-03-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84c7d2533f01bf86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "200ce5f8ef729a2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-03-28.md"
+              }
+            }
+          },
+          {
+            "id": "0e3276502a19a729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3021bc8e34f35955",
+  "lastOpenFiles": [
+    "financial decisions.md",
+    "Analytics.md",
+    "Tasks.md",
+    "2023-03-28.md",
+    "Peter handover.md",
+    "SoC2 Catalog.md",
+    "2022.md",
+    "something.md",
+    "Untitled.canvas",
+    "o.md",
+    "Meeting note.md",
+    "Skip level 1on1 with Laci.md",
+    "2023-03-25.md",
+    "Usukh presentation.md"
+  ]
+}
