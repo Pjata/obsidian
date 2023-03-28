@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-28.md",
+                "file": "Commons multi region migration.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-28.md",
+                "file": "Commons multi region migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-28.md",
+                "file": "Commons multi region migration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-28.md"
+                "file": "Commons multi region migration.md"
               }
             }
           },
@@ -175,10 +175,12 @@
   },
   "active": "0117adf18dc50534",
   "lastOpenFiles": [
+    "2023-03-28.md",
+    "Commons multi region migration.md",
+    "new vanity domain.md",
     "Analytics.md",
     "financial decisions.md",
     "Peter handover.md",
-    "2023-03-28.md",
     "Tasks.md",
     "SoC2 Catalog.md",
     "2022.md",
