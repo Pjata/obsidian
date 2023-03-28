@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-28.md",
+                "file": "SoC2 Catalog.md",
                 "mode": "source",
                 "source": true
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1d9e2ec4b5c05dd1",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-28.md",
+                "file": "SoC2 Catalog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-28.md",
+                "file": "SoC2 Catalog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-28.md"
+                "file": "SoC2 Catalog.md"
               }
             }
           },
@@ -163,13 +164,13 @@
   },
   "active": "0117adf18dc50534",
   "lastOpenFiles": [
-    "Heap presentation.md",
     "2023-03-28.md",
+    "Analytics.md",
     "SoC2 Catalog.md",
+    "financial decisions.md",
+    "Heap presentation.md",
     "Commons multi region migration.md",
     "new vanity domain.md",
-    "Analytics.md",
-    "financial decisions.md",
     "Peter handover.md",
     "Tasks.md",
     "2022.md",
