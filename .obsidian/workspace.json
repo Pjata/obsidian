@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoC2 Catalog.md",
+                "file": "2023-03-29.md",
                 "mode": "source",
                 "source": true
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1d9e2ec4b5c05dd1",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoC2 Catalog.md",
+                "file": "2023-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoC2 Catalog.md",
+                "file": "2023-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoC2 Catalog.md"
+                "file": "2023-03-29.md"
               }
             }
           },
@@ -165,8 +164,10 @@
   "active": "0117adf18dc50534",
   "lastOpenFiles": [
     "2023-03-28.md",
-    "Analytics.md",
+    "1on1 with Usukh.md",
+    "2023-03-29.md",
     "SoC2 Catalog.md",
+    "Analytics.md",
     "financial decisions.md",
     "Heap presentation.md",
     "Commons multi region migration.md",
