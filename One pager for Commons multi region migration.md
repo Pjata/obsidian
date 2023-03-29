@@ -7,4 +7,8 @@ Feed back to Bandi on the next [[1on1 with Bandi]]:
 
 Questions:
 * Cost of cleanup s3? what can go wrong there that needs cleanup?
-* 
+
+Concerns:
+* Cross region for provisioning
+* Cross region for data transfer
+* Queue and tickets
