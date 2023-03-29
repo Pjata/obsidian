@@ -2,3 +2,6 @@
 * We discussed approaches based on:
 * * Matrialized view 
 * * 
+
+
+Final solution seems to be the matiralized view because of the speed itself
