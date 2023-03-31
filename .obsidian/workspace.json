@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-03-30.md",
+                "file": "Analytics/Analytics.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-03-30.md",
+                "file": "Analytics/Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-03-30.md",
+                "file": "Analytics/Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-03-30.md"
+                "file": "Analytics/Analytics.md"
               }
             }
           },
@@ -163,8 +163,9 @@
   },
   "active": "0117adf18dc50534",
   "lastOpenFiles": [
-    "Frontend vision.md",
+    "Daily logs/2023-03-31.md",
     "Daily logs/2023-03-30.md",
+    "Frontend vision.md",
     "Daily logs/2023-03-29.md",
     "Commons multi region/One pager for Commons multi region migration.md",
     "Untitled",
@@ -198,7 +199,6 @@
     "o.md",
     "Meeting note.md",
     "1on1s/Skip level 1on1 with Laci.md",
-    "2023-03-25.md",
-    "Pandamonium/Usukh presentation.md"
+    "2023-03-25.md"
   ]
 }
