@@ -13,14 +13,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Release process.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "b94f18af65baae3c"
+          },
+          {
+            "id": "29f1d4efde8f7075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1on1s/Balu/1on1 with Balu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8dab19f8583d56e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "15a9051437494cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rewards in Phoenix.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Release process.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Release process.md",
+                "file": "Rewards in Phoenix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Release process.md"
+                "file": "Rewards in Phoenix.md"
               }
             }
           },
@@ -160,13 +197,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0117adf18dc50534",
+  "active": "15a9051437494cd2",
   "lastOpenFiles": [
     "Daily logs/2023-03-31.md",
-    "Release process.md",
-    "Tasks.md",
-    "Capacity for 2023Q2.md",
+    "Rewards in Phoenix.md",
+    "1on1s/Balu/1on1 with Balu.md",
     "1on1s/Bandi/1on1 with Bandi.md",
+    "1on1s/Lasszo/1on1 with Lasszo.md",
+    "1on1s/Tamas/1on1 with Tamas.md",
+    "1on1s/David/1on1 with David.md",
+    "1on1s/Verho/1on1 with Verho.md",
+    "1on1s/Usukh/1on1 with Usukh.md",
+    "1on1s/Lasszo",
+    "1on1s/Tamas",
+    "Tasks.md",
+    "1on1s/Balu",
+    "Release process.md",
+    "Capacity for 2023Q2.md",
     "Analytics/Analytics.md",
     "Daily logs/2023-03-30.md",
     "Frontend vision.md",
@@ -183,21 +230,11 @@
     "1on1s/Usukh",
     "1on1s/Verho",
     "1on1s/Bandi",
-    "1on1s/Verho/1on1 with Verho.md",
-    "Pandamonium",
-    "Daily logs",
-    "1on1s/Usukh/1on1 with Usukh.md",
-    "1on1s/David/1on1 with David.md",
-    "1on1s",
     "new vanity domain.md",
     "Pandamonium/Verho presentation.md",
     "Daily logs/2023-03-28.md",
     "SoC2 Catalog.md",
     "Peter handover.md",
-    "2022.md",
-    "something.md",
-    "Untitled.canvas",
-    "o.md",
-    "Meeting note.md"
+    "Untitled.canvas"
   ]
 }
