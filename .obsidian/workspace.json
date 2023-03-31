@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-03-31.md",
+                "file": "Release process.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-03-31.md",
+                "file": "Release process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-03-31.md",
+                "file": "Release process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-03-31.md"
+                "file": "Release process.md"
               }
             }
           },
@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +162,10 @@
   },
   "active": "0117adf18dc50534",
   "lastOpenFiles": [
-    "Capacity for 2023Q2.md",
     "Daily logs/2023-03-31.md",
+    "Release process.md",
+    "Tasks.md",
+    "Capacity for 2023Q2.md",
     "1on1s/Bandi/1on1 with Bandi.md",
     "Analytics/Analytics.md",
     "Daily logs/2023-03-30.md",
@@ -193,12 +194,10 @@
     "Daily logs/2023-03-28.md",
     "SoC2 Catalog.md",
     "Peter handover.md",
-    "Tasks.md",
     "2022.md",
     "something.md",
     "Untitled.canvas",
     "o.md",
-    "Meeting note.md",
-    "1on1s/Skip level 1on1 with Laci.md"
+    "Meeting note.md"
   ]
 }
