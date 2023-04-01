@@ -14,11 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "Daily logs/2023-04-03.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             },
             "group": "b94f18af65baae3c"
+          },
+          {
+            "id": "04ae9c64f9381651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Meeting minutes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "stacked": true
@@ -105,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily logs/2023-04-03.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,13 +181,21 @@
   },
   "active": "6353095e981f846a",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Personal",
+    "Catalog",
+    "Phoenix",
+    "2023Q2",
+    "Templates/Another template.md",
+    "Untitled.md",
+    "Templates/Meeting minutes.md",
     "Daily logs/2023-04-03.md",
+    "Templates",
+    "Tasks.md",
     "Daily logs/2023-03-28.md",
     "Daily logs/2023-03-29.md",
     "Daily logs/2023-03-30.md",
     "Daily logs/2023-03-31.md",
-    "Capacity for 2023Q2.md",
+    "2023Q2/Capacity for 2023Q2.md",
     "Excalidraw/Drawing 2023-04-01 14.13.03.excalidraw.md",
     "1on1s/Bandi/1on1 with Bandi.md",
     "Excalidraw",
@@ -188,26 +205,18 @@
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/David/1on1 with David.md",
-    "financial decisions.md",
-    "SoC2 Catalog.md",
-    "Rewards in Phoenix.md",
-    "Release process.md",
-    "Peter handover.md",
-    "new vanity domain.md",
-    "Frontend vision.md",
-    "Analytics/Analytics.md",
-    "Analytics/Listings tab in Analytics.md",
-    "Pandamonium/Usukh presentation.md",
-    "Pandamonium/Verho presentation.md",
+    "Personal/financial decisions.md",
+    "2023Q2/SoC2 Catalog.md",
+    "Phoenix/Rewards in Phoenix.md",
+    "Phoenix/Release process.md",
+    "2023Q2/Peter handover.md",
+    "Catalog/new vanity domain.md",
+    "Catalog/Frontend vision.md",
     "1on1s/Lasszo",
     "1on1s/Tamas",
     "1on1s/Balu",
-    "Untitled",
     "Analytics",
     "Commons multi region",
-    "1on1s/David",
-    "1on1s/Usukh",
-    "1on1s/Verho",
     "Untitled.canvas"
   ]
 }
