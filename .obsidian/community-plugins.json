@@ -1,5 +1,8 @@
 [
   "obsidian-tasks-plugin",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "obsidian-admonition",
+  "obsidian-excalidraw-plugin"
 ]
