@@ -21,6 +21,30 @@
             "group": "b94f18af65baae3c"
           },
           {
+            "id": "d8719f5eccd505f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phoenix/Talks to watch.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "18c404c4927e1eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phoenix/Talks to watch.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "d041ccd79ef0ec54",
             "type": "leaf",
             "state": {
@@ -118,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cross domain authentication.md",
+                "file": "Phoenix/Talks to watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cross domain authentication.md"
+                "file": "Phoenix/Talks to watch.md"
               }
             }
           },
@@ -183,8 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d041ccd79ef0ec54",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "Phoenix/Release process.md",
+    "Phoenix/Book club.md",
+    "Phoenix/Talks to watch.md",
     "Daily logs/2023-04-01.md",
     "Cross domain authentication.md",
     "Daily logs/2023-04-03.md",
@@ -213,10 +240,7 @@
     "Personal/financial decisions.md",
     "2023Q2/SoC2 Catalog.md",
     "Phoenix/Rewards in Phoenix.md",
-    "Phoenix/Release process.md",
     "2023Q2/Peter handover.md",
-    "Catalog/new vanity domain.md",
-    "Catalog/Frontend vision.md",
     "1on1s/Lasszo",
     "1on1s/Tamas",
     "1on1s/Balu",
