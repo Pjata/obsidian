@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "support week related to the dropped courses.md",
+                "file": "Daily logs/2023-04-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "support week related to the dropped courses.md",
+                "file": "Daily logs/2023-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "support week related to the dropped courses.md",
+                "file": "Daily logs/2023-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "support week related to the dropped courses.md"
+                "file": "Daily logs/2023-04-03.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "Phoenix/Talks to watch.md",
     "support week related to the dropped courses.md",
+    "Phoenix/Talks to watch.md",
     "Daily logs/2023-04-03.md",
     "Daily logs/2023-04-01.md",
     "Daily logs/2023-03-28.md",
