@@ -3,4 +3,4 @@
 * Service Review
 * Annual testing of disaster recovery
 * Alert for backup failures
-- [ ] #task Review the items sent by Zsofi 📅 2023-04-03
+- [x] #task Review the items sent by Zsofi 📅 2023-04-03 ✅ 2023-04-03

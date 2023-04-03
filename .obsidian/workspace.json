@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phoenix/Talks to watch.md",
+                "file": "Daily logs/2023-04-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phoenix/Talks to watch.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phoenix/Talks to watch.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,14 +207,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "0e3276502a19a729",
   "lastOpenFiles": [
+    "Daily logs/2023-04-03.md",
+    "Tasks.md",
+    "Phoenix/Talks to watch.md",
     "Phoenix/Release process.md",
     "Phoenix/Book club.md",
-    "Phoenix/Talks to watch.md",
     "Daily logs/2023-04-01.md",
     "Cross domain authentication.md",
-    "Daily logs/2023-04-03.md",
     "Personal",
     "Catalog",
     "Phoenix",
@@ -222,7 +223,6 @@
     "Templates/Another template.md",
     "Templates/Meeting minutes.md",
     "Templates",
-    "Tasks.md",
     "Daily logs/2023-03-28.md",
     "Daily logs/2023-03-29.md",
     "Daily logs/2023-03-30.md",
