@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023Q2/SoC2 Catalog.md",
+                "file": "Daily logs/2023-04-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023Q2/SoC2 Catalog.md",
+                "file": "Daily logs/2023-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023Q2/SoC2 Catalog.md"
+                "file": "Daily logs/2023-04-03.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "2023Q2/SoC2 Catalog.md",
     "Daily logs/2023-04-03.md",
     "Tasks.md",
     "Phoenix/Talks to watch.md",
@@ -238,7 +239,6 @@
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/David/1on1 with David.md",
     "Personal/financial decisions.md",
-    "2023Q2/SoC2 Catalog.md",
     "Phoenix/Rewards in Phoenix.md",
     "2023Q2/Peter handover.md",
     "1on1s/Lasszo",
