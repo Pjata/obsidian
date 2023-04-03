@@ -8,56 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0117adf18dc50534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily logs/2023-04-01.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "b94f18af65baae3c"
-          },
-          {
             "id": "d8719f5eccd505f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-03.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "18c404c4927e1eec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phoenix/Talks to watch.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d041ccd79ef0ec54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cross domain authentication.md",
+                "file": "support week related to the dropped courses.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -124,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-01.md",
+                "file": "support week related to the dropped courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +95,7 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "group": "b94f18af65baae3c"
+            }
           },
           {
             "id": "c65c206a826a149e",
@@ -142,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-03.md",
+                "file": "support week related to the dropped courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-03.md"
+                "file": "support week related to the dropped courses.md"
               }
             }
           },
@@ -209,18 +170,19 @@
   },
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "Phoenix/Talks to watch.md",
+    "support week related to the dropped courses.md",
+    "Daily logs/2023-04-03.md",
     "Daily logs/2023-04-01.md",
     "Daily logs/2023-03-28.md",
     "Daily logs/2023-03-29.md",
     "Daily logs/2023-03-30.md",
     "Daily logs/2023-03-31.md",
-    "Daily logs/2023-04-03.md",
     "Kickoff meeting For Commons multiregion.md",
     "monitors.md",
     "Heap.md",
     "Tasks.md",
     "2023Q2/SoC2 Catalog.md",
-    "Phoenix/Talks to watch.md",
     "Phoenix/Release process.md",
     "Phoenix/Book club.md",
     "Cross domain authentication.md",
@@ -240,7 +202,6 @@
     "Commons multi region/One pager for Commons multi region migration.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Tamas/1on1 with Tamas.md",
-    "1on1s/David/1on1 with David.md",
     "1on1s/Lasszo",
     "1on1s/Tamas",
     "1on1s/Balu",
