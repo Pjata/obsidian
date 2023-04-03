@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kickoff meeting For Commons multiregion.md",
+                "file": "Daily logs/2023-04-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kickoff meeting For Commons multiregion.md",
+                "file": "Daily logs/2023-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kickoff meeting For Commons multiregion.md"
+                "file": "Daily logs/2023-04-03.md"
               }
             }
           },
@@ -209,6 +209,11 @@
   },
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "Daily logs/2023-04-01.md",
+    "Daily logs/2023-03-28.md",
+    "Daily logs/2023-03-29.md",
+    "Daily logs/2023-03-30.md",
+    "Daily logs/2023-03-31.md",
     "Daily logs/2023-04-03.md",
     "Kickoff meeting For Commons multiregion.md",
     "monitors.md",
@@ -218,7 +223,6 @@
     "Phoenix/Talks to watch.md",
     "Phoenix/Release process.md",
     "Phoenix/Book club.md",
-    "Daily logs/2023-04-01.md",
     "Cross domain authentication.md",
     "Personal",
     "Catalog",
@@ -227,10 +231,6 @@
     "Templates/Another template.md",
     "Templates/Meeting minutes.md",
     "Templates",
-    "Daily logs/2023-03-28.md",
-    "Daily logs/2023-03-29.md",
-    "Daily logs/2023-03-30.md",
-    "Daily logs/2023-03-31.md",
     "2023Q2/Capacity for 2023Q2.md",
     "Excalidraw/Drawing 2023-04-01 14.13.03.excalidraw.md",
     "1on1s/Bandi/1on1 with Bandi.md",
