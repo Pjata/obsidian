@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heap.md",
+                "file": "Daily logs/2023-04-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heap.md",
+                "file": "Daily logs/2023-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heap.md"
+                "file": "Daily logs/2023-04-03.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "Daily logs/2023-04-03.md",
     "Heap.md",
+    "Daily logs/2023-04-03.md",
     "Tasks.md",
     "2023Q2/SoC2 Catalog.md",
     "Phoenix/Talks to watch.md",
