@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytics/Analytics.md",
+                "file": "Catalog page.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytics/Analytics.md",
+                "file": "Catalog page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytics/Analytics.md",
+                "file": "Catalog page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analytics/Analytics.md"
+                "file": "Catalog page.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
     "Daily logs/2023-04-04.md",
+    "Catalog page.md",
     "Analytics/Analytics.md",
     "Notification Service.md",
     "Catalog/Catalog Email sending.md",
@@ -201,7 +202,6 @@
     "Templates",
     "2023Q2/Capacity for 2023Q2.md",
     "Excalidraw/Drawing 2023-04-01 14.13.03.excalidraw.md",
-    "1on1s/Bandi/1on1 with Bandi.md",
     "Excalidraw",
     "1on1s/Lasszo",
     "1on1s/Tamas",
