@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +170,9 @@
   },
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "Daily logs/2023-04-03.md",
+    "Tasks.md",
     "Daily logs/2023-04-04.md",
+    "Daily logs/2023-04-03.md",
     "Daily logs/2023-03-30.md",
     "Daily logs/2023-03-29.md",
     "Daily logs/2023-03-28.md",
@@ -184,7 +184,6 @@
     "Catalog/support weeks",
     "Phoenix/Talks to watch.md",
     "Commons multi region/Kickoff meeting For Commons multiregion.md",
-    "Tasks.md",
     "2023Q2/SoC2 Catalog.md",
     "Phoenix/Release process.md",
     "Phoenix/Book club.md",
