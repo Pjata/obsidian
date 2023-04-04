@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023Q2/Heap.md",
+                "file": "Analytics/Analytics.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023Q2/Heap.md",
+                "file": "Analytics/Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023Q2/Heap.md",
+                "file": "Analytics/Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023Q2/Heap.md"
+                "file": "Analytics/Analytics.md"
               }
             }
           },
@@ -168,10 +168,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6353095e981f846a",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "1on1s/1on1 with Sergey.md",
     "Daily logs/2023-04-04.md",
+    "Notification Service.md",
+    "Catalog/Catalog Email sending.md",
+    "2023Q2/Heap.md",
+    "1on1s/1on1 with Sergey.md",
     "Tasks.md",
     "Daily logs/2023-04-03.md",
     "Daily logs/2023-03-30.md",
@@ -179,7 +182,6 @@
     "Daily logs/2023-03-28.md",
     "Daily logs/2023-03-31.md",
     "Daily logs/2023-04-01.md",
-    "2023Q2/Heap.md",
     "Catalog/monitors.md",
     "Catalog/support weeks/support week related to the dropped courses.md",
     "Catalog/support weeks",
@@ -201,8 +203,6 @@
     "1on1s/Bandi/1on1 with Bandi.md",
     "Excalidraw",
     "1on1s/Balu/1on1 with Balu.md",
-    "1on1s/Lasszo/1on1 with Lasszo.md",
-    "Commons multi region/One pager for Commons multi region migration.md",
     "1on1s/Lasszo",
     "1on1s/Tamas",
     "1on1s/Balu",
