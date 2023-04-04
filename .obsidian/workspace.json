@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-04.md",
+                "file": "Catalog/Promo code validation.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-04.md",
+                "file": "Catalog/Promo code validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-04.md",
+                "file": "Catalog/Promo code validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-04.md"
+                "file": "Catalog/Promo code validation.md"
               }
             }
           },
@@ -168,15 +168,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "6353095e981f846a",
   "lastOpenFiles": [
-    "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "Daily logs/2023-04-04.md",
+    "Catalog/Promo code validation.md",
+    "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas.Gyorfi",
     "Daily logs/2023-04-03.md",
-    "Catalog page.md",
+    "Catalog/Catalog page.md",
     "Analytics/Analytics.md",
-    "Notification Service.md",
+    "Catalog/Notification Service.md",
     "Catalog/Catalog Email sending.md",
     "2023Q2/Heap.md",
     "1on1s/1on1 with Sergey.md",
@@ -202,7 +203,6 @@
     "Templates/Another template.md",
     "Templates/Meeting minutes.md",
     "Templates",
-    "2023Q2/Capacity for 2023Q2.md",
     "Excalidraw",
     "1on1s/Lasszo",
     "1on1s/Tamas",
