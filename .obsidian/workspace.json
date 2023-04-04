@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog page.md",
+                "file": "Daily logs/2023-04-04.md",
                 "mode": "source",
                 "source": true
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 260.5
   },
   "right": {
     "id": "1d9e2ec4b5c05dd1",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalog page.md",
+                "file": "Daily logs/2023-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalog page.md",
+                "file": "Daily logs/2023-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catalog page.md"
+                "file": "Daily logs/2023-04-04.md"
               }
             }
           },
@@ -170,7 +170,10 @@
   },
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "Daily logs/2023-04-04.md",
+    "1on1s/Tamas.Gyorfi",
+    "Daily logs/2023-04-03.md",
     "Catalog page.md",
     "Analytics/Analytics.md",
     "Notification Service.md",
@@ -178,7 +181,6 @@
     "2023Q2/Heap.md",
     "1on1s/1on1 with Sergey.md",
     "Tasks.md",
-    "Daily logs/2023-04-03.md",
     "Daily logs/2023-03-30.md",
     "Daily logs/2023-03-29.md",
     "Daily logs/2023-03-28.md",
@@ -201,11 +203,9 @@
     "Templates/Meeting minutes.md",
     "Templates",
     "2023Q2/Capacity for 2023Q2.md",
-    "Excalidraw/Drawing 2023-04-01 14.13.03.excalidraw.md",
     "Excalidraw",
     "1on1s/Lasszo",
     "1on1s/Tamas",
-    "1on1s/Balu",
     "Untitled.canvas"
   ]
 }
