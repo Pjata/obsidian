@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog/Enrollments.md",
+                "file": "Payment Redirector.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Payment Redirector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Payment Redirector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Payment Redirector.md"
               }
             }
           },
@@ -176,10 +176,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "90794e89097e8ff0",
   "lastOpenFiles": [
-    "Catalog/Enrollments.md",
     "Daily logs/2023-04-05.md",
+    "Payment Redirector.md",
+    "Tasks.md",
+    "Catalog/Enrollments.md",
     "Catalog/Payments.md",
     "Catalog/support weeks/new vanity domain.md",
     "Catalog/support weeks/support week related to the dropped courses.md",
@@ -190,7 +192,6 @@
     "Pandamonium/Usukh presentation.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "Phoenix/Book club.md",
-    "Tasks.md",
     "Daily logs/2023-03-28.md",
     "Daily logs/2023-04-04.md",
     "Catalog/Promo code validation.md",
@@ -204,7 +205,6 @@
     "2023Q2/Heap.md",
     "1on1s/1on1 with Sergey.md",
     "Daily logs/2023-03-30.md",
-    "Daily logs/2023-03-29.md",
     "Catalog/support weeks",
     "Personal",
     "Catalog",
