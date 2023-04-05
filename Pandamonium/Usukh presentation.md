@@ -15,3 +15,9 @@ good -> what did you learn t
 
 CR share personal experience with problem giving -1, -2
 not feeling enough confidence
+
+
+
+## Apr 5
+
+First slide talk about : why you wanted to learn this and come to hungary

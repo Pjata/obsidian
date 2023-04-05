@@ -9,3 +9,4 @@
 ## 2023-04-05
 
 - Discuss support week https://instructure.atlassian.net/browse/PHO-4263
+- Talk about [[Usukh presentation]]

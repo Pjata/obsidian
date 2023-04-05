@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Pandamonium/Usukh presentation.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Pandamonium/Usukh presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Pandamonium/Usukh presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md"
+                "file": "Pandamonium/Usukh presentation.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "1on1s/Usukh/1on1 with Usukh.md",
+    "1on1s/Verho/Heap presentation.md",
+    "Pandamonium/Usukh presentation.md",
     "Daily logs/2023-04-05.md",
     "Phoenix/Book club.md",
     "Tasks.md",
@@ -203,13 +206,10 @@
     "Phoenix/Talks to watch.md",
     "Commons multi region/Kickoff meeting For Commons multiregion.md",
     "2023Q2/SoC2 Catalog.md",
-    "Phoenix/Release process.md",
-    "Catalog/Cross domain authentication.md",
     "Personal",
     "Catalog",
     "Phoenix",
     "2023Q2",
-    "Templates/Another template.md",
     "Templates",
     "Excalidraw",
     "1on1s/Lasszo",
