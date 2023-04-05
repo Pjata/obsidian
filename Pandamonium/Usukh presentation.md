@@ -21,3 +21,6 @@ not feeling enough confidence
 ## Apr 5
 
 First slide talk about : why you wanted to learn this and come to hungary
+
+Key points and why and hows are set
+Next meeting ab
