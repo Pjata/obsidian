@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandamonium/Verho presentation.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pandamonium/Verho presentation.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pandamonium/Verho presentation.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pandamonium/Verho presentation.md"
+                "file": "1on1s/Verho/1on1 with Verho.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "1on1s/Verho/Heap presentation.md",
+    "Pandamonium/Verho presentation.md",
     "1on1s/Verho/1on1 with Verho.md",
     "Pandamonium/Usukh presentation.md",
     "1on1s/Usukh/1on1 with Usukh.md",
-    "1on1s/Verho/Heap presentation.md",
     "Daily logs/2023-04-05.md",
     "Phoenix/Book club.md",
     "Tasks.md",
@@ -205,7 +206,6 @@
     "Catalog/support weeks/support week related to the dropped courses.md",
     "Catalog/support weeks",
     "Phoenix/Talks to watch.md",
-    "Commons multi region/Kickoff meeting For Commons multiregion.md",
     "Personal",
     "Catalog",
     "Phoenix",
