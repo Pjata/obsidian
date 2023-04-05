@@ -4,7 +4,7 @@
 * Discussed the oppurtunities for Java learning
 * Agreed for 2 meetings regarding the [[Verho presentation]]
 
-- [ ] #task Ask Balu for smaller Java tickets that can be done for learning 📅 2023-04-05
+- [x] #task Ask Balu for smaller Java tickets that can be done for learning 📅 2023-04-05 ✅ 2023-04-05
 
 ## 2023-04-05
 
