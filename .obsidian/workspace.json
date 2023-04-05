@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phoenix/Book club.md",
+                "file": "Daily logs/2023-04-05.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phoenix/Book club.md",
+                "file": "Daily logs/2023-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phoenix/Book club.md",
+                "file": "Daily logs/2023-04-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phoenix/Book club.md"
+                "file": "Daily logs/2023-04-05.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "Phoenix/Book club.md",
+    "Daily logs/2023-04-05.md",
     "Tasks.md",
     "Daily logs/2023-03-28.md",
     "Daily logs/2023-04-04.md",
@@ -202,14 +204,12 @@
     "Commons multi region/Kickoff meeting For Commons multiregion.md",
     "2023Q2/SoC2 Catalog.md",
     "Phoenix/Release process.md",
-    "Phoenix/Book club.md",
     "Catalog/Cross domain authentication.md",
     "Personal",
     "Catalog",
     "Phoenix",
     "2023Q2",
     "Templates/Another template.md",
-    "Templates/Meeting minutes.md",
     "Templates",
     "Excalidraw",
     "1on1s/Lasszo",
