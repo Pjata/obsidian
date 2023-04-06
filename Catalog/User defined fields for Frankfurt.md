@@ -1,0 +1,15 @@
+Some problems with [[User defined fields]]
+```
+udf.update_column(:label,"Ja, ich willige ein, dass ich an meine oben genannte E-Mail-Adresse werbliche Informationen zu Produkten, Dienstleistungen und Veranstaltungen der Frankfurt School of Finance & Management erhalte.Meine Einwilligungserklärung kann ich jederzeit schriftlich gegenüber der Frankfurt School of Finance & Management gGmbH, Adickesallee 32-34, 60322 Frankfurt am Main oder per E-Mail an datenschutzbeauftragter@fs.de widerrufen. 
+Der Schutz Ihrer persönlichen Daten ist uns sehr wichtig. Bitte lesen Sie unsere <a href=\"https://www.frankfurt-school.de/de/home/data-protection\">Datenschutzhinweise</a>, um sich darüber zu informieren, wie die Frankfurt School diesen Schutz gewährleistet und welche Datenarten zu welchem Zweck verarbeitet werden.")
+
+
+udf.update_column(:label, "Ja, ich willige ein, dass die Frankfurt School of Finance & Management gGmbH meine personenbezogenen Daten für den oben genannten Zweck erheben darf.")
+
+$('#registration > form > span > span.css-761x0g-view > div:nth-child(14) > div.css-3orjyc-checkbox > label > span > span.css-1cyeqpm-checkboxFacade__label').html("Ja, ich willige ein, dass ich an meine oben genannte E-Mail-Adresse werbliche Informationen zu Produkten, Dienstleistungen und Veranstaltungen der Frankfurt School of Finance & Management erhalte. </br> </br> Meine Einwilligungserklärung kann ich jederzeit schriftlich gegenüber der Frankfurt School of Finance & Management gGmbH, Adickesallee 32-34, 60322 Frankfurt am Main oder per E-Mail an datenschutzbeauftragter@fs.de widerrufen. Der Schutz Ihrer persönlichen Daten ist uns sehr wichtig. </br> </br> Bitte lesen Sie unsere <a href='https://www.frankfurt-school.de/de/home/data-protection'>Datenschutzhinweise</a>, um sich darüber zu informieren, wie die Frankfurt School diesen Schutz gewährleistet und welche Datenarten zu welchem Zweck verarbeitet werden.")
+
+$('#registration > form > span > span.css-761x0g-view > div:nth-child(15) > div.css-3orjyc-checkbox > label > span > span.css-1cyeqpm-checkboxFacade__label').html("Ich habe die <a href='https://www.frankfurt-school.de/dam/jcr:b8c4867c-f832-4300-ad4f-16d775191ed0'>Allgemeinen Geschäftsbedingungen</a> und die <a href='https://www.frankfurt-school.de/dam/jcr:47f48caf-2421-4ec8-b5ed-9a7444ecb916'>Besonderen Geschäftsbedingungen</a> gelesen und akzeptiere diese.")
+
+$('#registration > form > span > span.css-761x0g-view > div:nth-child(16) > div.css-3orjyc-checkbox > label > span > span.css-1cyeqpm-checkboxFacade__label').html("Ich habe die <a href='https://www.frankfurt-school.de/dam/jcr:5743f350-3499-4760-8463-0a23899a8be1'>Informationen zum Widerruf</a> zur Kenntnis genommen. Ich bin einverstanden und verlange ausdrücklich, dass Sie vor Ende der Widerrufsfrist mit der Ausführung der beauftragten Dienstleistung beginnen. Mir ist bekannt, dass ich bei vollständiger Vertragserfüllung durch Sie mein Widerrufrecht verliere.")
+
+```
