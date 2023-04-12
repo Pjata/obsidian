@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security NFR.md",
+                "file": "Daily logs/2023-04-12.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security NFR.md",
+                "file": "Daily logs/2023-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security NFR.md",
+                "file": "Daily logs/2023-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security NFR.md"
+                "file": "Daily logs/2023-04-12.md"
               }
             }
           },
@@ -178,14 +178,18 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
-    "Daily logs/2023-04-06.md",
+    "1on1s/David/1on1 with David.md",
+    "Daily logs/2023-04-12.md",
+    "1on1s/Bandi/1on1 with Bandi.md",
+    "Phoenix/Talks to watch.md",
+    "Daily logs/2023-04-08.md",
     "Security NFR.md",
+    "Daily logs/2023-04-06.md",
     "Catalog/Payment Redirector.md",
     "Catalog/User defined fields.md",
     "Catalog/User defined fields for Frankfurt.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/1on1 with Tamas.md",
-    "1on1s/David/1on1 with David.md",
     "1on1s/Verho/1on1 with Verho.md",
     "Daily logs/2023-04-05.md",
     "Tasks.md",
@@ -200,11 +204,7 @@
     "Phoenix/Book club.md",
     "Daily logs/2023-03-28.md",
     "Daily logs/2023-04-04.md",
-    "Catalog/Promo code validation.md",
     "1on1s/Tamas.Gyorfi",
-    "Daily logs/2023-04-03.md",
-    "Catalog/Catalog page.md",
-    "Analytics/Analytics.md",
     "Catalog/support weeks",
     "Personal",
     "Catalog",
