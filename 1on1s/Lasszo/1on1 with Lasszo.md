@@ -8,3 +8,4 @@
 * no code reviews -> more and more
 * order analytics, user + canvas user id, totals, e2e
 * registered through
+* does not asks enough
