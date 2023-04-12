@@ -7,4 +7,4 @@
 * Tamas going forward
 * Usukh makes mistakes, but corrects
 
-*
+* SonarQube goes forward

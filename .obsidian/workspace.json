@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
+                "file": "1on1s/Balu/1on1 with Balu.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
+                "file": "1on1s/Balu/1on1 with Balu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
+                "file": "1on1s/Balu/1on1 with Balu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Lasszo/1on1 with Lasszo.md"
+                "file": "1on1s/Balu/1on1 with Balu.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/Balu/1on1 with Balu.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Tamas/1on1 with Tamas.md",
@@ -203,7 +204,6 @@
     "Catalog/support weeks/new vanity domain.md",
     "Catalog/support weeks/support week related to the dropped courses.md",
     "1on1s/Verho/Heap presentation.md",
-    "Pandamonium/Verho presentation.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",
