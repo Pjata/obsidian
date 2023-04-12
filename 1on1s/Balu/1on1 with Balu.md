@@ -2,3 +2,9 @@
 * DAP architecture diagram, send it to the arch forum for review
 * AWS certificate on summer
 * 
+
+* Sergey maxim
+* Tamas going forward
+* Usukh makes mistakes, but corrects
+
+*
