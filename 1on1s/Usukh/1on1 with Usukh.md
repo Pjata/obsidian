@@ -10,3 +10,7 @@
 
 - Discuss support week https://instructure.atlassian.net/browse/PHO-4263
 - Talk about [[Usukh presentation]]
+
+## 2023-04-12
+- worked on Canvas Java Client
+- 03
