@@ -12,3 +12,7 @@
 * Bandi: Info sharing, documentations , one pagers. 
 * Very dense first period
 * No rush. Quality over quantity. 
+
+
+outtakes:
+* 
