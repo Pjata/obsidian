@@ -13,4 +13,4 @@
 
 ## 2023-04-12
 - worked on Canvas Java Client
-- 03
+- Presentation: Question and pauses, skeleton is good. reiterate on the flow

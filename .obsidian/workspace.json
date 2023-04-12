@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "2023Q2/Peter handover.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "2023Q2/Peter handover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "2023Q2/Peter handover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md"
+                "file": "2023Q2/Peter handover.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "2023Q2/Heap.md",
+    "2023Q2/SoC2 Catalog.md",
+    "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-04-12.md",
     "1on1s/David/1on1 with David.md",
     "1on1s/Bandi/1on1 with Bandi.md",
@@ -200,10 +203,7 @@
     "1on1s/Verho/Heap presentation.md",
     "Pandamonium/Verho presentation.md",
     "Pandamonium/Usukh presentation.md",
-    "1on1s/Usukh/1on1 with Usukh.md",
     "Phoenix/Book club.md",
-    "Daily logs/2023-03-28.md",
-    "Daily logs/2023-04-04.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",
