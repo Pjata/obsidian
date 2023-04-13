@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-13.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "1on1s/Bandi/1on1 with Bandi.md"
               }
             }
           },
@@ -176,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "Tasks.md",
     "Daily logs/2023-04-13.md",
     "Catalog/Payment redirector/Moneris.md",
     "Catalog/Payment redirector/Payment Redirector.md",
@@ -204,7 +205,6 @@
     "Daily logs/2023-04-04.md",
     "Daily logs/2023-04-01.md",
     "Daily logs/2023-03-31.md",
-    "Daily logs/2023-03-30.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",

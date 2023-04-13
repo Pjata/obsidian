@@ -21,5 +21,5 @@
 - feels like he set up a priorities 
 - do not push things
 - looks up for clarity
-- [ ] #task secondary for lasszo replace 📅 2023-04-13
+- [x] #task secondary for lasszo replace 📅 2023-04-13 ✅ 2023-04-13
 - Find thigther loops
