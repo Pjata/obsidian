@@ -10,3 +10,7 @@ Give feedback for the [[One pager for Commons multi region migration]]
 
 - had bad sleep due to pagerduty
 - Commons multi region is going well, beside docviewer AC can be tested
+- don't want to plan too ahead, just until the next big milestone
+- smaller tickets, not only big blockers
+- focused on the project
+- set goals and blockers and let them do it
