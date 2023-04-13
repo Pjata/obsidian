@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-13.md",
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-13.md",
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-13.md",
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-13.md"
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md"
               }
             }
           },
@@ -176,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90794e89097e8ff0",
+  "active": "6353095e981f846a",
   "lastOpenFiles": [
-    "Daily logs/2023-04-12.md",
     "Daily logs/2023-04-13.md",
+    "Daily logs/2023-04-12.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/Balu/1on1 with Balu.md",
     "1on1s/Verho/1on1 with Verho.md",
