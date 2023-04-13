@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog/Payment redirector/Transact.md",
+                "file": "Daily logs/2023-04-13.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalog/Payment redirector/Transact.md",
+                "file": "Daily logs/2023-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalog/Payment redirector/Transact.md",
+                "file": "Daily logs/2023-04-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catalog/Payment redirector/Transact.md"
+                "file": "Daily logs/2023-04-13.md"
               }
             }
           },
@@ -176,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6353095e981f846a",
+  "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "Pandamonium/Verho presentation.md",
     "Daily logs/2023-04-13.md",
     "Catalog/Payment redirector/Transact.md",
     "Tasks.md",
@@ -196,7 +197,6 @@
     "Phoenix/Talks to watch.md",
     "Phoenix/Rewards in Phoenix.md",
     "Phoenix/Release process.md",
-    "Pandamonium/Verho presentation.md",
     "Pandamonium/Usukh presentation.md",
     "Commons multi region/One pager for Commons multi region migration.md",
     "Commons multi region/Commons multi region migration.md",
