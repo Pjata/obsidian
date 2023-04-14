@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-14.md",
+                "file": "Analytics release.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-14.md",
+                "file": "Analytics release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-14.md",
+                "file": "Analytics release.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-14.md"
+                "file": "Analytics release.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "8628e2a6d0caccbf",
   "lastOpenFiles": [
-    "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-04-14.md",
+    "Analytics release.md",
+    "1on1s/Kata/1on1 with Kata.md",
     "1on1s/Kata",
     "Tasks.md",
     "Daily logs/2023-04-13.md",
@@ -218,7 +219,6 @@
     "Commons multi region/Commons multi region migration.md",
     "Daily logs/2023-04-08.md",
     "Daily logs/2023-04-12.md",
-    "Daily logs/2023-04-06.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",
