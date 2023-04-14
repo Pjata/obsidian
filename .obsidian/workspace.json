@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-14.md",
+                "file": "1on1s/Kata/1on1 with Kata.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytics release.md",
+                "file": "1on1s/Kata/1on1 with Kata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytics release.md",
+                "file": "1on1s/Kata/1on1 with Kata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analytics release.md"
+                "file": "1on1s/Kata/1on1 with Kata.md"
               }
             }
           },
@@ -189,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8628e2a6d0caccbf",
+  "active": "90794e89097e8ff0",
   "lastOpenFiles": [
     "Daily logs/2023-04-14.md",
     "Analytics release.md",
