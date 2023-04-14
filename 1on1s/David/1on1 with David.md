@@ -15,7 +15,7 @@
 - separate deployments
 - adminbox?
 - [ ] #task team event oragnisation starter 📅 2023-04-06
-- [ ] #task team event for summer 📅 2023-04-07
+- [x] #task team event for summer 📅 2023-04-07 ✅ 2023-04-14
 
 ## 2023-04-12
 
