@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Touchnet detail code.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Touchnet detail code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Touchnet detail code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md"
+                "file": "Touchnet detail code.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
     "Daily logs/2023-04-14.md",
-    "Analytics release.md",
+    "Touchnet detail code.md",
     "1on1s/Kata/1on1 with Kata.md",
+    "Analytics release.md",
     "1on1s/Kata",
     "Tasks.md",
     "Daily logs/2023-04-13.md",
@@ -217,7 +218,6 @@
     "Commons multi region/One pager for Commons multi region migration.md",
     "Commons multi region/Commons multi region migration.md",
     "Daily logs/2023-04-08.md",
-    "Daily logs/2023-04-12.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",
