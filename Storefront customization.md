@@ -8,4 +8,4 @@ Up to decision:
 - entry points: we can decide later, when it makes sense. maybe look ahead with 2-3 features?
 - full screen overlay?
 - MVP?
-- 
+- Rewrite vs 
