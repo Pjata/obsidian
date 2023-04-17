@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storefront customization.md",
+                "file": "1on1s/Lasszo/Cycle time.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storefront customization.md",
+                "file": "1on1s/Lasszo/Cycle time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storefront customization.md",
+                "file": "1on1s/Lasszo/Cycle time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storefront customization.md"
+                "file": "1on1s/Lasszo/Cycle time.md"
               }
             }
           },
@@ -204,12 +203,12 @@
   },
   "active": "00ff6e8c9a57a5cc",
   "lastOpenFiles": [
-    "Daily logs/2023-04-17.md",
+    "1on1s/Lasszo/1on1 with Lasszo.md",
     "Storefront customization.md",
+    "Daily logs/2023-04-17.md",
     "Daily logs/2023-04-14.md",
     "Bulk purchase.md",
     "1on1s/Lasszo/Cycle time.md",
-    "1on1s/Lasszo/1on1 with Lasszo.md",
     "Daily logs/2023-04-05.md",
     "Touchnet detail code.md",
     "Untitled.md",

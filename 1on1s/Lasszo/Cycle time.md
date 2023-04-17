@@ -2,87 +2,147 @@
 
 PHO-3490
 
-Assigned: 2022.01.05
-Feedback: 2022.01.12
-In progress: 2022.01.12
-Closed: 2022.01.13
+SP: 3
+Time: 7 Wday 
+
+Assigned: 2023.01.05
+Feedback: 2023.01.12
+In progress: 2023.01.12
+Closed: 2023.01.13
 
 
 
 
 ## IAD Beta Catalog gives, "We’re sorry, but something went wrong" error
 
-PHO-3993
 
-Assigned: 2022.01.18
-Closed:  2022.01.18
+PHO-3993
+SP: 2
+Time: 1 wday
+
+Assigned: 2023.01.18
+Closed:  2023.01.18
 
 
 ## Refactor Order Analytics Repository Integration Tests
 
-PHO-3973
 
-Assigned: 2022.01.13
-Blocked: 2022.01.17
-Inprogress: 2022.01.19
-Closed: 2022.01.30
+PHO-3973
+SP: 5
+Time: 12 Wday
+
+Assigned: 2023.01.13
+Blocked: 2023.01.17
+Inprogress: 2023.01.19
+Closed: 2023.01.30
 
 ## [backend] Generate Revenue report CSV
 
-PHO-3954
 
-Assigned: 2022.02.01
-Feedback: 2022.02.10
-Inprogress: 2022.02.13
-Feedback: 2022.02.13
-QA: 2022.02.14
-Closed: 2022.02.15
+PHO-3954
+SP: 5
+Time: 11 Wday
+
+Assigned: 2023.02.01
+Feedback: 2023.02.10
+Inprogress: 2023.02.13
+Feedback: 2023.02.13
+QA: 2023.02.14
+Closed: 2023.02.15
 
 ## [backend] Monitoring of CSV generation queue
 
 PHO-3958
 
-Assigned: 2022.02.16
-Feedback: 2022.02.20
-Inprogress: 2022.02.21
-Feedback: 2022.02.22
-Closed: 2022.02.23
+SP: 3
+Time: 6Wday
+
+Assigned: 2023.02.16
+Feedback: 2023.02.20
+Inprogress: 2023.02.21
+Feedback: 2023.02.22
+Closed: 2023.02.23
 
 ## [backend] Revenue CSV contains different number of rows than the table
 
 PHO-4150
+SP: 3
 
-Assigned: 2022.02.23
-Feedback: 2022.02.24
-QA: 2022.03.06
-Closed: 2022.03.08
+Assigned: 2023.02.23
+Feedback: 2023.02.24
+QA: 2023.03.06
+Closed: 2023.03.08
 
 ## Touchnet detail codes not getting sent in some case
 
 PHO-4213
-Assigned: 2022.
+SP: 2
 
+Assigned: 2023.03.09
+Feedback: 2023.03.09
+Inprogress: 2023.03.10
+blocked: 2023.03.10
+closed: 2023.03.14
 
-[backend] Users: Details data + CSV export endpoint returns all users
+## [backend] Users: Details data + CSV export endpoint returns all users
 
 PHO-4203
+SP: 5
 
-[backend] Already logged in users are not stored in the users table
+Assigned: 2023.03.10
+Inprogress: 2023.03.10
+Feedback: 2023.03.16
+QA: 2023.03.20
+Closed: 2023.03.20
+
+## [backend] Already logged in users are not stored in the users table
 
 PHO-4275
+SP: 2
 
-[backend] Investigate http status code for timeouts
+Assigned: 2023.03.21
+Feedback: 2023.03.22
+Closed: 2023.03.22
+
+## [backend] Investigate http status code for timeouts
 
 PHO-4278
+SP: 2
 
-[ui][backend] Analytics Users CSV: Registered through
+Assigned: 2023.03.22
+Inprogress: 2023.03.22
+QA ready: 2023.03.27
+Inprogress: 2023.03.27
+Closed: 2023.03.27
+
+## [ui][backend] Analytics Users CSV: Registered through
 
 PHO-4322
+SP: 2
 
-[ui][backend] Users tab: Create Registered through filter
+Assigned?: 2023.04.03
+Inprogress: 2023.04.03
+Feedback: 2023.04.06
+QA ready: 2023.04.06
+Closed: 2023.04.06
+
+## [ui][backend] Users tab: Create Registered through filter
 
 PHO-4291
+SP: 2
 
-[ui][backend] Users tab: Create Last enrollment date filter
+Assigned: 2023.04.03
+Feedback: 2023.04.05
+Closed: 2023.04.06
+
+Closed: 
+
+
+## [ui][backend] Users tab: Create Last enrollment date filter
 
 PHO-4287
+SP:  3
+
+Assigned? 2023.04.11
+Inprogress: 2023.04.12
+Closed: 2023.04.13
