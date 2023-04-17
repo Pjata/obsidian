@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-17.md",
+                "file": "Bulk purchase.md",
                 "mode": "source",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-17.md",
+                "file": "Bulk purchase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-17.md",
+                "file": "Bulk purchase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-17.md"
+                "file": "Bulk purchase.md"
               }
             }
           },
@@ -203,9 +203,10 @@
   },
   "active": "00ff6e8c9a57a5cc",
   "lastOpenFiles": [
+    "Daily logs/2023-04-17.md",
+    "Bulk purchase.md",
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
-    "Daily logs/2023-04-17.md",
     "Daily logs/2023-04-05.md",
     "Touchnet detail code.md",
     "Untitled.md",
@@ -230,7 +231,6 @@
     "Security NFR.md",
     "Phoenix/Book club.md",
     "Phoenix/Talks to watch.md",
-    "Phoenix/Rewards in Phoenix.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",
