@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bulk purchase.md",
+                "file": "Storefront customization.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bulk purchase.md",
+                "file": "Storefront customization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bulk purchase.md",
+                "file": "Storefront customization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bulk purchase.md"
+                "file": "Storefront customization.md"
               }
             }
           },
@@ -204,13 +205,14 @@
   "active": "00ff6e8c9a57a5cc",
   "lastOpenFiles": [
     "Daily logs/2023-04-17.md",
+    "Storefront customization.md",
+    "Daily logs/2023-04-14.md",
     "Bulk purchase.md",
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "Daily logs/2023-04-05.md",
     "Touchnet detail code.md",
     "Untitled.md",
-    "Daily logs/2023-04-14.md",
     "1on1s/Kata/1on1 with Kata.md",
     "Analytics release.md",
     "1on1s/Kata",
@@ -230,7 +232,6 @@
     "Analytics/Analytics.md",
     "Security NFR.md",
     "Phoenix/Book club.md",
-    "Phoenix/Talks to watch.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",
