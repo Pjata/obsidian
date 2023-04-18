@@ -11,3 +11,5 @@
 https://instructure.slack.com/archives/C029536CU/p1681404375299729
 
 talk about this
+
+https://instructure.atlassian.net/browse/PHO-4415 email inheritance
