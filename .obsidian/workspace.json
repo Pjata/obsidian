@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Tamas/Tamas pandamonium.md",
+                "file": "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Tamas/Tamas pandamonium.md",
+                "file": "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Tamas/Tamas pandamonium.md",
+                "file": "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Tamas/Tamas pandamonium.md"
+                "file": "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md"
               }
             }
           },
@@ -215,9 +215,11 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Service Review.md",
-    "1on1s/Tamas/Tamas pandamonium.md",
     "Daily logs/2023-04-18.md",
+    "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
+    "1on1s/Tamas/1on1 with Tamas.md",
+    "1on1s/Tamas/Tamas pandamonium.md",
+    "Service Review.md",
     "1on1s/Kata/1on1 with Kata.md",
     "1on1s/Lasszo/Cycle time.md",
     "Daily logs/2023-04-17.md",
@@ -241,8 +243,6 @@
     "Catalog/Payment redirector/Payments.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Verho/Heap presentation.md",
-    "Commons multi region/Kickoff meeting For Commons multiregion.md",
-    "Analytics/Listings tab in Analytics.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",
