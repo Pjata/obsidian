@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-18.md",
+                "file": "Service Review.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-18.md",
+                "file": "Service Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-18.md",
+                "file": "Service Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-18.md"
+                "file": "Service Review.md"
               }
             }
           },
@@ -202,9 +202,10 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "Daily logs/2023-04-18.md",
+    "Service Review.md",
     "1on1s/Kata/1on1 with Kata.md",
     "1on1s/Lasszo/Cycle time.md",
-    "Daily logs/2023-04-18.md",
     "Daily logs/2023-04-17.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "Storefront customization.md",
@@ -229,7 +230,6 @@
     "Commons multi region/Kickoff meeting For Commons multiregion.md",
     "Analytics/Listings tab in Analytics.md",
     "Analytics/Analytics.md",
-    "Security NFR.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",
