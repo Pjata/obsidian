@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Daily logs/2023-04-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Daily logs/2023-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Daily logs/2023-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md"
+                "file": "Daily logs/2023-04-18.md"
               }
             }
           },
@@ -202,9 +202,9 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "1on1s/Kata/1on1 with Kata.md",
     "1on1s/Lasszo/Cycle time.md",
     "Daily logs/2023-04-18.md",
-    "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-04-17.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "Storefront customization.md",
