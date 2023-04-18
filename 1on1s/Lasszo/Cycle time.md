@@ -55,7 +55,7 @@ Closed: 2023.02.15
 PHO-3958
 
 SP: 3
-Time: 6Wday
+Time: 6 Wday
 
 Assigned: 2023.02.16
 Feedback: 2023.02.20
@@ -67,6 +67,7 @@ Closed: 2023.02.23
 
 PHO-4150
 SP: 3
+Time: 10 Wday
 
 Assigned: 2023.02.23
 Feedback: 2023.02.24
@@ -77,6 +78,7 @@ Closed: 2023.03.08
 
 PHO-4213
 SP: 2
+Time: 4 Wday
 
 Assigned: 2023.03.09
 Feedback: 2023.03.09
@@ -88,6 +90,7 @@ closed: 2023.03.14
 
 PHO-4203
 SP: 5
+Time: 7 Wday
 
 Assigned: 2023.03.10
 Inprogress: 2023.03.10
@@ -99,6 +102,7 @@ Closed: 2023.03.20
 
 PHO-4275
 SP: 2
+Time: 2 Wday
 
 Assigned: 2023.03.21
 Feedback: 2023.03.22
@@ -108,6 +112,7 @@ Closed: 2023.03.22
 
 PHO-4278
 SP: 2
+Time: 4 Wday
 
 Assigned: 2023.03.22
 Inprogress: 2023.03.22
@@ -119,6 +124,7 @@ Closed: 2023.03.27
 
 PHO-4322
 SP: 2
+Time: 4 Wday
 
 Assigned?: 2023.04.03
 Inprogress: 2023.04.03
@@ -130,7 +136,7 @@ Closed: 2023.04.06
 
 PHO-4291
 SP: 2
-
+Time: 4 Wday
 Assigned: 2023.04.03
 Feedback: 2023.04.05
 Closed: 2023.04.06
@@ -142,6 +148,7 @@ Closed:
 
 PHO-4287
 SP:  3
+Time: 3 Wday
 
 Assigned? 2023.04.11
 Inprogress: 2023.04.12
