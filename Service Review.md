@@ -5,3 +5,6 @@
 - Montiros gonna be fixed to be region based
 - Created bug tickets for the 8 year old errors (PHO-4421, PHO-4422)
 - Created tickets for payment redirector low prio sentries (log bofuscation)
+  
+  Snyk:
+  - No mature/high issues found
