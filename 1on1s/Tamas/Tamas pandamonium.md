@@ -1,0 +1,3 @@
+- Less on the slides, people will read it you
+- chromatic workflow, awesome s
+- addon, what is an addon?
