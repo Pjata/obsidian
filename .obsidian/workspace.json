@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Service Review.md",
+                "file": "Daily logs/2023-04-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
+                "file": "1on1s/Kata/1on1 with Kata.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
+                "file": "Daily logs/2023-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
+                "file": "Daily logs/2023-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md"
+                "file": "Daily logs/2023-04-18.md"
               }
             }
           },
@@ -213,14 +212,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f8ba0f0503691f5",
+  "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "Student dashboard.md",
     "Daily logs/2023-04-18.md",
+    "Service Review.md",
+    "1on1s/Kata/1on1 with Kata.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/Tamas/Tamas pandamonium.md",
-    "Service Review.md",
-    "1on1s/Kata/1on1 with Kata.md",
     "1on1s/Lasszo/Cycle time.md",
     "Daily logs/2023-04-17.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
@@ -242,7 +242,6 @@
     "Catalog/Payment redirector",
     "Catalog/Payment redirector/Payments.md",
     "1on1s/Verho/1on1 with Verho.md",
-    "1on1s/Verho/Heap presentation.md",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
     "Personal",
