@@ -8,4 +8,4 @@
 - Vanity renewal flow improvements
 - Starlord?
 - commit flags
-- 
+- payment redirector error logs and flow improvements
