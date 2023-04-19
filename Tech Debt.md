@@ -1,11 +1,11 @@
 - Catalog scaling policy
-- Certificate generation, no cache
-- Ember + Coffescript
+- Certificate generation, caching
+- getting rid of Ember + Coffescript
 - Traceability (sentry) 
 - Legacy libraries and unmaintained updated
 - Ruby and Rails upgrade
-- Prod deploy
+- Deployment + beta refresh automatizations
 - Vanity renewal flow improvements
-- Starlord?
 - commit flags
 - payment redirector error logs and flow improvements
+- 
