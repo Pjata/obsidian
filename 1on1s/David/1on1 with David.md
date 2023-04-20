@@ -22,6 +22,8 @@
 ## 2023-04-20
 
 - [ ] #task check if you need ticket for the baby itself 📅 2023-04-20
+- asking back feels back like an attack
+- we should be between the scale of 'planned' and 'not planned'
 - 
 
 - 
