@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/David/1on1 with David.md",
+                "file": "DAP.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/David/1on1 with David.md",
+                "file": "DAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/David/1on1 with David.md",
+                "file": "DAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/David/1on1 with David.md"
+                "file": "DAP.md"
               }
             }
           },
@@ -215,6 +215,8 @@
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
     "Daily logs/2023-04-20.md",
+    "DAP.md",
+    "1on1s/David/1on1 with David.md",
     "Security NFR.md",
     "Storefront customization.md",
     "Student dashboard.md",
@@ -239,8 +241,6 @@
     "1on1s/Kata",
     "Daily logs/2023-04-13.md",
     "Pandamonium/Verho presentation.md",
-    "Catalog/Payment redirector/Transact.md",
-    "1on1s/Bandi/1on1 with Bandi.md",
     "Catalog/Payment redirector",
     "1on1s/Tamas.Gyorfi",
     "Catalog/support weeks",
