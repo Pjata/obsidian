@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAP.md",
+                "file": "Daily logs/2023-04-20.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAP.md",
+                "file": "Daily logs/2023-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAP.md",
+                "file": "Daily logs/2023-04-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAP.md"
+                "file": "Daily logs/2023-04-20.md"
               }
             }
           },
@@ -214,8 +214,8 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
-    "Daily logs/2023-04-20.md",
     "DAP.md",
+    "Daily logs/2023-04-20.md",
     "1on1s/David/1on1 with David.md",
     "Security NFR.md",
     "Storefront customization.md",
