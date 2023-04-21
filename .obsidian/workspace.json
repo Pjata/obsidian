@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90794e89097e8ff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "David pandamonium.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "5f8ba0f0503691f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "1on1s/David/David pandamonium.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytics release.md",
+                "file": "Catalog/Analytics/Analytics release.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "David pandamonium.md",
+                "file": "1on1s/David/David pandamonium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "David pandamonium.md",
+                "file": "1on1s/David/David pandamonium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "David pandamonium.md"
+                "file": "1on1s/David/David pandamonium.md"
               }
             }
           },
@@ -213,34 +201,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90794e89097e8ff0",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
+    "Service Review.md",
+    "Security NFR.md",
+    "Catalog/Analytics/Analytics release.md",
+    "Catalog/OCPS Custom tools.md",
+    "Catalog/Tech Debt.md",
+    "Untitled.md",
+    "Catalog/Payment redirector/Moneris.md",
+    "1on1s/David/David pandamonium.md",
     "Daily logs/2023-04-21.md",
-    "David pandamonium.md",
-    "Analytics release.md",
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/Kata/1on1 with Kata.md",
-    "OCPS Custom tools.md",
     "Daily logs/2023-04-20.md",
-    "DAP.md",
+    "Catalog/DAP.md",
     "1on1s/David/1on1 with David.md",
-    "Security NFR.md",
-    "Storefront customization.md",
-    "Student dashboard.md",
+    "Catalog/Storefront customization.md",
+    "Catalog/Student dashboard.md",
     "Daily logs/2023-04-19.md",
-    "Tech Debt.md",
     "Daily logs/2023-04-18.md",
     "Tasks.md",
-    "Service Review.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/Tamas/Tamas pandamonium.md",
     "Daily logs/2023-04-17.md",
     "Daily logs/2023-04-14.md",
-    "Bulk purchase.md",
-    "Daily logs/2023-04-05.md",
-    "Touchnet detail code.md",
+    "Catalog/Bulk purchase.md",
     "1on1s/Kata",
     "Catalog/Payment redirector",
     "1on1s/Tamas.Gyorfi",
