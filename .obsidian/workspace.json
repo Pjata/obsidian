@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-21.md",
+                "file": "David pandamonium.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-21.md",
+                "file": "David pandamonium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-21.md",
+                "file": "David pandamonium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-21.md"
+                "file": "David pandamonium.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
-    "Analytics release.md",
     "Daily logs/2023-04-21.md",
+    "David pandamonium.md",
+    "Analytics release.md",
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/Kata/1on1 with Kata.md",
@@ -240,7 +241,6 @@
     "Bulk purchase.md",
     "Daily logs/2023-04-05.md",
     "Touchnet detail code.md",
-    "Untitled.md",
     "1on1s/Kata",
     "Catalog/Payment redirector",
     "1on1s/Tamas.Gyorfi",
