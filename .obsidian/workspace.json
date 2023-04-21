@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Lasszo/Cycle time.md",
+                "file": "Analytics release.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Lasszo/Cycle time.md",
+                "file": "Analytics release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Lasszo/Cycle time.md",
+                "file": "Analytics release.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Lasszo/Cycle time.md"
+                "file": "Analytics release.md"
               }
             }
           },
@@ -215,9 +215,10 @@
   },
   "active": "90794e89097e8ff0",
   "lastOpenFiles": [
+    "Daily logs/2023-04-21.md",
+    "1on1s/Lasszo/Cycle time.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/Kata/1on1 with Kata.md",
-    "Daily logs/2023-04-21.md",
     "OCPS Custom tools.md",
     "Daily logs/2023-04-20.md",
     "DAP.md",
@@ -233,7 +234,6 @@
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/Tamas/Tamas pandamonium.md",
-    "1on1s/Lasszo/Cycle time.md",
     "Daily logs/2023-04-17.md",
     "Daily logs/2023-04-14.md",
     "Bulk purchase.md",
