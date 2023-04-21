@@ -141,9 +141,6 @@ Assigned: 2023.04.03
 Feedback: 2023.04.05
 Closed: 2023.04.06
 
-Closed: 
-
-
 ## [ui][backend] Users tab: Create Last enrollment date filter
 
 PHO-4287
