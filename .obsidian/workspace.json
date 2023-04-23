@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estimates.md",
+                "file": "Daily logs/2023-04-23.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estimates.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estimates.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estimates.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -196,12 +196,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +213,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3adfca1f2424dd7b",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "Daily logs/2023-04-23.md",
+    "Estimates.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
@@ -226,9 +227,7 @@
     "Pasted image 20230423112416.png",
     "Pasted image 20230423111928.png",
     "Pasted image 20230423111456.png",
-    "Pasted image 20230423110529.png",
     "1on1s/Lasszo/Cycle time.md",
-    "Estimates.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/David/David pandamonium.md",
     "Service Review.md",
