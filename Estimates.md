@@ -57,3 +57,4 @@ the Cone to narrow. Meaningful commitments in the early-middle part of the proje
 ![[Pasted image 20230423162828.png]]
 ![[Pasted image 20230423162916.png]]
 ![[Pasted image 20230423163130.png]]
+![[Pasted image 20230423163644.png]]
