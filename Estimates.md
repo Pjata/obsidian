@@ -13,3 +13,12 @@ ie1000 iu 400
 10 000 - 100 000
 30 000 000 - 100 000 000
 30tn - 300tn
+
+![[Pasted image 20230423110529.png]]
+
+In my discussions with executives, I’ve frequently asked, “What is more important to  
+you: the ability to change your mind about features, or the ability to know cost, sched-  
+ule, and functionality in advance?” At least 8 times out of 10, executives respond “The  
+ability to know cost, schedule, and functionality in advance”—in other words, predict-  
+ability. Other software experts have made the same observation (Moseman 2002,  
+Putnam and Myers 2003).
