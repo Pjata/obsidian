@@ -14,7 +14,7 @@
 - recovery plan 
 - separate deployments
 - adminbox?
-- [ ] #task team event oragnisation starter 📅 2023-04-06
+- [x] #task team event oragnisation starter 📅 2023-04-06 ✅ 2023-04-24
 - [x] #task team event for summer 📅 2023-04-07 ✅ 2023-04-14
 
 ## 2023-04-12
