@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog/Analytics/Analytics.md",
+                "file": "Tasks.md",
                 "mode": "preview",
                 "source": true
               }
@@ -215,10 +216,10 @@
   },
   "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
-    "Daily logs/2023-04-23.md",
-    "Daily logs/2023-04-24.md",
-    "Catalog/Analytics/Analytics.md",
     "Tasks.md",
+    "Catalog/Analytics/Analytics.md",
+    "Daily logs/2023-04-24.md",
+    "Daily logs/2023-04-23.md",
     "Estimates.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
