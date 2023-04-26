@@ -11,3 +11,4 @@
 - good teamwork, sergey balu
 - figma, be up to date
 - milestones, 
+- 
