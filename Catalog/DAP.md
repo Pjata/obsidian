@@ -19,3 +19,9 @@ Ingest API
 
 Trino 
 1. 
+
+
+https://lucid.app/lucidspark/cd378652-9f15-48ab-b95c-303fbfac5556/edit?view_items=ntrStnXDVL.w%2COvrSr1T.cW4X%2CAwrSNiJjRBSf%2CWrrSw5bxiXyy&invitationId=inv_ef92573f-219c-4b5d-8a19-73df641c6332
+
+Planning
+
