@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog/DAP.md",
+                "file": "1on1s/David/1on1 with David.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalog/DAP.md",
+                "file": "1on1s/David/1on1 with David.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalog/DAP.md",
+                "file": "1on1s/David/1on1 with David.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catalog/DAP.md"
+                "file": "1on1s/David/1on1 with David.md"
               }
             }
           },
@@ -216,6 +215,9 @@
   },
   "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
+    "1on1s/Lasszo/Cycle time.md",
+    "1on1s/David/1on1 with David.md",
+    "Catalog/DAP.md",
     "Daily logs/2023-04-26.md",
     "Tasks.md",
     "Daily logs/2023-04-25.md",
@@ -234,7 +236,6 @@
     "Pasted image 20230423112416.png",
     "Pasted image 20230423111928.png",
     "Pasted image 20230423111456.png",
-    "1on1s/Lasszo/Cycle time.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/David/David pandamonium.md",
     "Service Review.md",
@@ -246,8 +247,6 @@
     "Daily logs/2023-04-21.md",
     "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-04-20.md",
-    "Catalog/DAP.md",
-    "1on1s/David/1on1 with David.md",
     "Catalog/Storefront customization.md",
     "Catalog/Student dashboard.md",
     "Daily logs/2023-04-19.md",
