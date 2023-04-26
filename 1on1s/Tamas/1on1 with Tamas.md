@@ -4,3 +4,10 @@
 * Ember rewrite planning
 *  Have a week of daily oncall 
 
+## 2023.04.26
+
+- have time for the project, Norbi & Kata
+- too specific, v2 for tickets
+- good teamwork, sergey balu
+- figma, be up to date
+- milestones, 
