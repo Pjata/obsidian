@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Lasszo/1on1 with Lasszo.md"
+                "file": "1on1s/Verho/1on1 with Verho.md"
               }
             }
           },
@@ -215,6 +215,7 @@
   },
   "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
+    "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Balu/1on1 with Balu.md",
     "Daily logs/2023-04-26.md",
@@ -238,7 +239,6 @@
     "Pasted image 20230423112416.png",
     "Pasted image 20230423111928.png",
     "Pasted image 20230423111456.png",
-    "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/David/David pandamonium.md",
     "Service Review.md",
     "Security NFR.md",

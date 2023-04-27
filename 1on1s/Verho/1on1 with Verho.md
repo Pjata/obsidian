@@ -15,4 +15,10 @@
 
 
 outtakes:
+
+## 2023-04-27
+
+- Talked about hte presentation, it was good dry run. needs little more content
+- sweet spot between the 'known' and 'unknown'
+- phase2 own problem set start to finish
 * 
