@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Balu/1on1 with Balu.md",
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Balu/1on1 with Balu.md",
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Balu/1on1 with Balu.md",
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Balu/1on1 with Balu.md"
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md"
               }
             }
           },
@@ -215,10 +215,11 @@
   },
   "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
+    "1on1s/Lasszo/Cycle time.md",
+    "1on1s/Balu/1on1 with Balu.md",
     "Daily logs/2023-04-26.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/David/1on1 with David.md",
-    "1on1s/Lasszo/Cycle time.md",
     "Catalog/DAP.md",
     "Tasks.md",
     "Daily logs/2023-04-25.md",
@@ -250,7 +251,6 @@
     "Daily logs/2023-04-20.md",
     "Catalog/Storefront customization.md",
     "Catalog/Student dashboard.md",
-    "Daily logs/2023-04-19.md",
     "1on1s/Kata",
     "Catalog/Payment redirector",
     "1on1s/Tamas.Gyorfi",

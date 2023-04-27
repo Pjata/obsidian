@@ -23,3 +23,10 @@
 - looks up for clarity
 - [x] #task secondary for lasszo replace 📅 2023-04-13 ✅ 2023-04-13
 - Find thigther loops
+
+
+## 2023-04-15
+
+- cycle time reduction
+- push for feedback and fixes
+- 
