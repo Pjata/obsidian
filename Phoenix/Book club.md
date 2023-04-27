@@ -2,7 +2,7 @@ Also can be about [[Talks to watch]]
 
 [Good thread](https://old.reddit.com/r/ExperiencedDevs/comments/11npqqi/what_type_of_bookscourses_has_revolutionized_your/?context=3)
 
-- [ ] #task Ask Verho / Lasszo / Usukh for particiaption 📅 2023-04-09
+- [x] #task Ask Verho / Lasszo / Usukh for particiaption 📅 2023-04-09 ✅ 2023-04-27
 
 ##  Candidates
 
