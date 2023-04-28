@@ -14,3 +14,7 @@
 ## 2023-04-12
 - worked on Canvas Java Client
 - Presentation: Question and pauses, skeleton is good. reiterate on the flow
+
+
+i have a question, what hungarian children want to be?
+let it float in 

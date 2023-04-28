@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storefront mvp scope.md",
+                "file": "1on1s/Usukh/1on1 with Usukh.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storefront mvp scope.md",
+                "file": "1on1s/Usukh/1on1 with Usukh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storefront mvp scope.md",
+                "file": "1on1s/Usukh/1on1 with Usukh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storefront mvp scope.md"
+                "file": "1on1s/Usukh/1on1 with Usukh.md"
               }
             }
           },
@@ -228,8 +228,8 @@
   },
   "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
-    "1on1s/Bandi/1on1 with Bandi.md",
     "Storefront mvp scope.md",
+    "1on1s/Bandi/1on1 with Bandi.md",
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Balu/1on1 with Balu.md",
