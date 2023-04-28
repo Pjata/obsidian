@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Bandi/1on1 with Bandi.md",
+                "file": "Daily logs/2023-04-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Daily logs/2023-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Daily logs/2023-04-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md"
+                "file": "Daily logs/2023-04-28.md"
               }
             }
           },
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,15 +225,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24fd5a34f4d7af70",
+  "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
     "Storefront mvp scope.md",
+    "Daily logs/2023-04-28.md",
     "1on1s/Bandi/1on1 with Bandi.md",
+    "1on1s/Usukh/1on1 with Usukh.md",
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Balu/1on1 with Balu.md",
     "1on1s/Kata/1on1 with Kata.md",
-    "Daily logs/2023-04-28.md",
     "Daily logs/2023-04-27.md",
     "Daily logs/2023-04-26.md",
     "Phoenix/Book club.md",
@@ -263,7 +263,6 @@
     "Service Review.md",
     "Security NFR.md",
     "Catalog/Analytics/Analytics release.md",
-    "Catalog/OCPS Custom tools.md",
     "1on1s/Kata",
     "Catalog/Payment redirector",
     "1on1s/Tamas.Gyorfi",
