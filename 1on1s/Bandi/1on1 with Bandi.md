@@ -14,3 +14,8 @@ Give feedback for the [[One pager for Commons multi region migration]]
 - smaller tickets, not only big blockers
 - focused on the project
 - set goals and blockers and let them do it
+
+## 2023.04.28
+
+- going to gorzium (floraia)
+- 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-28.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-28.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-28.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-28.md"
+                "file": "1on1s/Bandi/1on1 with Bandi.md"
               }
             }
           },
@@ -216,15 +216,17 @@
   },
   "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
-    "Daily logs/2023-04-27.md",
-    "Daily logs/2023-04-28.md",
-    "Daily logs/2023-04-26.md",
+    "1on1s/Lasszo/Cycle time.md",
+    "1on1s/Bandi/1on1 with Bandi.md",
     "1on1s/Verho/1on1 with Verho.md",
+    "1on1s/Balu/1on1 with Balu.md",
+    "1on1s/Kata/1on1 with Kata.md",
+    "Daily logs/2023-04-28.md",
+    "Daily logs/2023-04-27.md",
+    "Daily logs/2023-04-26.md",
     "Phoenix/Book club.md",
     "Tasks.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
-    "1on1s/Lasszo/Cycle time.md",
-    "1on1s/Balu/1on1 with Balu.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/David/1on1 with David.md",
     "Catalog/DAP.md",
@@ -250,8 +252,6 @@
     "Catalog/Analytics/Analytics release.md",
     "Catalog/OCPS Custom tools.md",
     "Catalog/Tech Debt.md",
-    "Catalog/Payment redirector/Moneris.md",
-    "Daily logs/2023-04-21.md",
     "1on1s/Kata",
     "Catalog/Payment redirector",
     "1on1s/Tamas.Gyorfi",
