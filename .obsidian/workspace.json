@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-27.md",
+                "file": "Daily logs/2023-04-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-27.md",
+                "file": "Daily logs/2023-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-27.md",
+                "file": "Daily logs/2023-04-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-27.md"
+                "file": "Daily logs/2023-04-28.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
-    "Daily logs/2023-04-26.md",
     "Daily logs/2023-04-27.md",
+    "Daily logs/2023-04-28.md",
+    "Daily logs/2023-04-26.md",
     "1on1s/Verho/1on1 with Verho.md",
     "Phoenix/Book club.md",
     "Tasks.md",
@@ -250,7 +251,6 @@
     "Catalog/Tech Debt.md",
     "Catalog/Payment redirector/Moneris.md",
     "Daily logs/2023-04-21.md",
-    "1on1s/Kata/1on1 with Kata.md",
     "1on1s/Kata",
     "Catalog/Payment redirector",
     "1on1s/Tamas.Gyorfi",
