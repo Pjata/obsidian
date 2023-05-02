@@ -21,5 +21,4 @@ let it float in
 
 
 'to be in goverment i had to study'
-
 masters -> what do you think the avg income monthly ?
