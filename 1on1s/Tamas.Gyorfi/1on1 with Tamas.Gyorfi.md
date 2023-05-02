@@ -8,4 +8,9 @@ waterfall and agile, does not felt positive the questioning from Tara, i feel a 
 
 -> talked about storefront being agile
 
-- talked about verho's 
+
+## 2023.05.02
+
+- Talk about the fire team overwhelmed
+- Heap
+- 
