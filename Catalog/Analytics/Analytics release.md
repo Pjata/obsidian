@@ -12,3 +12,9 @@ Based on this, the action items are:
 -   I’m gonna create a ticket for the banner ([@Norbi](https://instructure.slack.com/team/U04172145DK) we’re gonna need a design for this, I’ll write the copy - cc [@tamas.laszlo](https://instructure.slack.com/team/U038ZMCSDJS) as soon as it’s ready you can pick this up)
 -   I’m gonna create a ticket for the feature flag for new users
 -   I assume a ticket is needed to remove the old version from beta, right? I’ll write up that one too.
+
+
+## Release
+
+Release is out! 2023.05.2
+
