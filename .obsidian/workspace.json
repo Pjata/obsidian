@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-04-28.md",
+                "file": "Daily logs/2023-05-02.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-04-28.md",
+                "file": "Daily logs/2023-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-04-28.md",
+                "file": "Daily logs/2023-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-04-28.md"
+                "file": "Daily logs/2023-05-02.md"
               }
             }
           },
@@ -227,8 +227,9 @@
   },
   "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
-    "Storefront mvp scope.md",
     "Daily logs/2023-04-28.md",
+    "Daily logs/2023-05-02.md",
+    "Storefront mvp scope.md",
     "1on1s/Bandi/1on1 with Bandi.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "1on1s/Lasszo/Cycle time.md",
@@ -262,7 +263,6 @@
     "1on1s/David/David pandamonium.md",
     "Service Review.md",
     "Security NFR.md",
-    "Catalog/Analytics/Analytics release.md",
     "1on1s/Kata",
     "Catalog/Payment redirector",
     "1on1s/Tamas.Gyorfi",
