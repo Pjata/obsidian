@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Daily logs/2023-05-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -225,8 +225,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3adfca1f2424dd7b",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "Daily logs/2023-05-03.md",
+    "1on1s/Usukh/1on1 with Usukh.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/Tamas pandamonium.md",
     "Daily logs/2023-05-02.md",
@@ -234,7 +236,6 @@
     "Daily logs/2023-04-28.md",
     "Storefront mvp scope.md",
     "1on1s/Bandi/1on1 with Bandi.md",
-    "1on1s/Usukh/1on1 with Usukh.md",
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Balu/1on1 with Balu.md",
@@ -252,7 +253,6 @@
     "Daily logs/2023-04-24.md",
     "Catalog/Analytics/Analytics.md",
     "Daily logs/2023-04-23.md",
-    "Estimates.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
