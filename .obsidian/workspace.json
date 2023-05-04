@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-03.md",
+                "file": "Daily logs/2023-05-04.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-05-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2023-05-04.md"
               }
             }
           },
@@ -225,9 +225,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
     "Daily logs/2023-05-03.md",
+    "Daily logs/2023-05-04.md",
+    "Tasks.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/Tamas pandamonium.md",
@@ -243,7 +245,6 @@
     "Daily logs/2023-04-27.md",
     "Daily logs/2023-04-26.md",
     "Phoenix/Book club.md",
-    "Tasks.md",
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/David/1on1 with David.md",
@@ -252,7 +253,6 @@
     "Cost reductionl for Catalog.md",
     "Daily logs/2023-04-24.md",
     "Catalog/Analytics/Analytics.md",
-    "Daily logs/2023-04-23.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
