@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-05-05.md",
+                "file": "Daily logs/2023-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-05-05.md",
+                "file": "Daily logs/2023-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +175,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
-                "mode": "preview",
+                "file": "Daily logs/2023-05-02.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-05-05.md"
+                "file": "Daily logs/2023-05-02.md"
               }
             }
           },
@@ -212,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,12 +225,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3adfca1f2424dd7b",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "Daily logs/2023-05-04.md",
-    "Daily logs/2023-05-05.md",
-    "Daily logs/2023-05-03.md",
     "Tasks.md",
+    "Daily logs/2023-05-05.md",
+    "Daily logs/2023-05-04.md",
+    "Daily logs/2023-05-03.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/Tamas pandamonium.md",
