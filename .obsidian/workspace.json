@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-04.md",
+                "file": "Daily logs/2023-05-05.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-05-04.md",
+                "file": "Daily logs/2023-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-05-04.md",
+                "file": "Daily logs/2023-05-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-05-04.md"
+                "file": "Daily logs/2023-05-05.md"
               }
             }
           },
@@ -227,8 +227,9 @@
   },
   "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
-    "Daily logs/2023-05-03.md",
     "Daily logs/2023-05-04.md",
+    "Daily logs/2023-05-05.md",
+    "Daily logs/2023-05-03.md",
     "Tasks.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
@@ -252,7 +253,6 @@
     "Daily logs/2023-04-25.md",
     "Cost reductionl for Catalog.md",
     "Daily logs/2023-04-24.md",
-    "Catalog/Analytics/Analytics.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
