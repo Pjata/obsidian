@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackwee ideas.md",
+                "file": "Daily logs/2023-05-08.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackwee ideas.md",
+                "file": "Daily logs/2023-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackwee ideas.md",
+                "file": "Daily logs/2023-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackwee ideas.md"
+                "file": "Daily logs/2023-05-08.md"
               }
             }
           },
@@ -239,8 +239,9 @@
   },
   "active": "26e441263f77072e",
   "lastOpenFiles": [
-    "Daily logs/2023-05-05.md",
     "Hackwee ideas.md",
+    "Daily logs/2023-05-08.md",
+    "Daily logs/2023-05-05.md",
     "Tasks.md",
     "Daily logs/2023-05-02.md",
     "Daily logs/2023-05-04.md",
@@ -264,7 +265,6 @@
     "1on1s/David/1on1 with David.md",
     "Catalog/DAP.md",
     "Daily logs/2023-04-25.md",
-    "Cost reductionl for Catalog.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
