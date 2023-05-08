@@ -14,3 +14,4 @@
 
 - median number of categories 
 - get the edge cases of details page
+- meeting next week regarding the results
