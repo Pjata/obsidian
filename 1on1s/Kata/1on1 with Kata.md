@@ -26,3 +26,7 @@ https://instructure.atlassian.net/browse/PHO-4416
 - Team health overall OK, we agree with it
 - Agreed that bandi is doing well now
 - 
+
+## 2023.05.09
+
+- Discuss https://instructure.atlassian.net/browse/PHO-4519
