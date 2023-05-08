@@ -12,5 +12,5 @@
 
 ## Action Items
 
--
-
+- median number of categories 
+- get the edge cases of details page
