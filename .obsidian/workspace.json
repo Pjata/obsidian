@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storefront pages rewrite.md",
+                "file": "Daily logs/2023-05-08.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storefront pages rewrite.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storefront pages rewrite.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storefront pages rewrite.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -237,7 +237,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26e441263f77072e",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
     "Daily logs/2023-05-08.md",
     "Storefront pages rewrite.md",
