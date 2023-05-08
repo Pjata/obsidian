@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Daily logs/2023-05-08.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Daily logs/2023-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Daily logs/2023-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md"
+                "file": "Daily logs/2023-05-08.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   },
   "active": "26e441263f77072e",
   "lastOpenFiles": [
+    "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-05-08.md",
     "Tasks.md",
     "Hackwee ideas.md",
@@ -256,7 +257,6 @@
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Balu/1on1 with Balu.md",
-    "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-04-27.md",
     "Daily logs/2023-04-26.md",
     "Phoenix/Book club.md",
