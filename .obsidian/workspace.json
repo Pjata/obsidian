@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-08.md",
+                "file": "Daily logs/2023-05-09.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-05-08.md",
+                "file": "Daily logs/2023-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-05-08.md",
+                "file": "Daily logs/2023-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-05-08.md"
+                "file": "Daily logs/2023-05-09.md"
               }
             }
           },
@@ -239,9 +239,10 @@
   },
   "active": "3adfca1f2424dd7b",
   "lastOpenFiles": [
-    "Daily logs/2023-05-05.md",
     "Daily logs/2023-05-08.md",
+    "Daily logs/2023-05-09.md",
     "Tasks.md",
+    "Daily logs/2023-05-05.md",
     "Storefront pages rewrite.md",
     "1on1s/Kata/1on1 with Kata.md",
     "Hackwee ideas.md",
@@ -264,7 +265,6 @@
     "1on1s/Lasszo/1on1 with Lasszo.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/David/1on1 with David.md",
-    "Catalog/DAP.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
