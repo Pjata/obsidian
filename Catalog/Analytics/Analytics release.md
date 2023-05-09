@@ -1,5 +1,17 @@
 May 2 is the release for prod
 
+## Attendees
+
+- 
+
+## Agenda
+
+-
+
+## Action Items
+
+-
+
 Discussed the release, here’s how we’re going to proceed:  
 
 -   **We’re gonna keep the old analytics and the reports in production until June 30th**, so users can modify their automations if they have some, also to get used to the new analytics features
@@ -17,4 +29,6 @@ Based on this, the action items are:
 ## Release
 
 Release is out! 2023.05.2
+
+One bigger issue: users tab shows all the users, we are solving it
 
