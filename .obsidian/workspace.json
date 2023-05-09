@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -237,14 +237,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3adfca1f2424dd7b",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-05-09.md",
     "Daily logs/2023-05-08.md",
     "Tasks.md",
     "Daily logs/2023-05-05.md",
     "Storefront pages rewrite.md",
-    "1on1s/Kata/1on1 with Kata.md",
     "Hackwee ideas.md",
     "Daily logs/2023-05-02.md",
     "Daily logs/2023-05-04.md",
