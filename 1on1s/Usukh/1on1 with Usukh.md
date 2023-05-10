@@ -27,4 +27,4 @@ masters -> what do you think the avg income monthly ?
 
 - Good presentation
 - liked the burnout presentation
-- 
+- we talked about though
