@@ -22,3 +22,9 @@ let it float in
 
 'to be in goverment i had to study'
 masters -> what do you think the avg income monthly ?
+
+## 2023-05-10
+
+- Good presentation
+- liked the burnout presentation
+- 
