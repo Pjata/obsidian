@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md"
+                "file": "1on1s/Verho/1on1 with Verho.md"
               }
             }
           },
@@ -239,9 +239,9 @@
   },
   "active": "8628e2a6d0caccbf",
   "lastOpenFiles": [
+    "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-05-10.md",
     "Daily logs/2023-05-09.md",
-    "1on1s/Usukh/1on1 with Usukh.md",
     "Catalog/Analytics/Analytics release.md",
     "Tasks.md",
     "1on1s/Kata/1on1 with Kata.md",

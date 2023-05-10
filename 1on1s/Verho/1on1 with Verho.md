@@ -22,3 +22,5 @@ outtakes:
 - sweet spot between the 'known' and 'unknown'
 - phase2 own problem set start to finish
  - asked about book club
+
+## 
