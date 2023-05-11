@@ -17,4 +17,6 @@
 
 - could enjoy his own talk
 - usukhs good talk, smart homes, 
-- 
+- gonna do a shadowing next week on on call
+- had a good documentation for ember
+- does not feel like doing alone the investigation
