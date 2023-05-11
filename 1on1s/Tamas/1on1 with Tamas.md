@@ -17,3 +17,4 @@
 
 - could enjoy his own talk
 - usukhs good talk, smart homes, 
+- 
