@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-10.md",
+                "file": "Daily logs/2023-05-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-05-10.md",
+                "file": "Daily logs/2023-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-05-10.md",
+                "file": "Daily logs/2023-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-05-10.md"
+                "file": "Daily logs/2023-05-11.md"
               }
             }
           },
@@ -239,8 +239,9 @@
   },
   "active": "8628e2a6d0caccbf",
   "lastOpenFiles": [
-    "Multi code promotion.md",
     "Daily logs/2023-05-10.md",
+    "Daily logs/2023-05-11.md",
+    "Multi code promotion.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-05-09.md",
@@ -264,7 +265,6 @@
     "Daily logs/2023-04-27.md",
     "Daily logs/2023-04-26.md",
     "Phoenix/Book club.md",
-    "1on1s/Lasszo/1on1 with Lasszo.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
