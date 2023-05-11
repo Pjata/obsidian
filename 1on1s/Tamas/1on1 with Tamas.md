@@ -12,3 +12,8 @@
 - figma, be up to date
 - milestones, 
 - 
+
+## 2023.05.11
+
+- could enjoy his own talk
+- usukhs good talk, smart homes, 
