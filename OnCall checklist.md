@@ -8,4 +8,5 @@
 1. Prepare for the release meeting the beta sheets
 2. Prod release starts (prio: Catalog, Payment Redirector, Commons)
 3. Check weekly error reports in slack, see any huge spikes
-4. 
+4. Check expiring certificates
+5. 
