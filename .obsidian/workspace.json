@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Lasszo/Cycle time.md",
+                "file": "OnCall check and prio list.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,14 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OnCall checklist.md",
+                "file": "Daily logs/2023-05-15.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OnCall checklist.md",
+                "file": "OnCall check and prio list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OnCall checklist.md",
+                "file": "OnCall check and prio list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OnCall checklist.md"
+                "file": "OnCall check and prio list.md"
               }
             }
           },
@@ -237,10 +236,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8628e2a6d0caccbf",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
+    "1on1s/Lasszo/Cycle time.md",
     "Daily logs/2023-05-15.md",
-    "OnCall checklist.md",
+    "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
+    "OnCall check and prio list.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/Tamas/Tamas pandamonium.md",
     "Daily logs/2023-05-11.md",
@@ -259,11 +260,9 @@
     "Daily logs/2023-05-02.md",
     "Daily logs/2023-05-04.md",
     "Daily logs/2023-05-03.md",
-    "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "Daily logs/2023-04-28.md",
     "Storefront mvp scope.md",
     "1on1s/Bandi/1on1 with Bandi.md",
-    "1on1s/Lasszo/Cycle time.md",
     "1on1s/Balu/1on1 with Balu.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",

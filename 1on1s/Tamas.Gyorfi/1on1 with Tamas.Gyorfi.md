@@ -13,4 +13,7 @@ waterfall and agile, does not felt positive the questioning from Tara, i feel a 
 
 - Talk about the fire team overwhelmed
 - Heap
+
+## 2023.05.16
+- canvas and learning
 - 
