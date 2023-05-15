@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Tamas/1on1 with Tamas.md",
+                "file": "Daily logs/2023-05-15.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Tamas/1on1 with Tamas.md",
+                "file": "Daily logs/2023-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Tamas/1on1 with Tamas.md",
+                "file": "Daily logs/2023-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Tamas/1on1 with Tamas.md"
+                "file": "Daily logs/2023-05-15.md"
               }
             }
           },
@@ -239,6 +239,8 @@
   },
   "active": "8628e2a6d0caccbf",
   "lastOpenFiles": [
+    "1on1s/Tamas/1on1 with Tamas.md",
+    "Daily logs/2023-05-15.md",
     "1on1s/Tamas/Tamas pandamonium.md",
     "Daily logs/2023-05-11.md",
     "Daily logs/2023-05-10.md",
@@ -263,8 +265,6 @@
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Balu/1on1 with Balu.md",
     "Daily logs/2023-04-27.md",
-    "Daily logs/2023-04-26.md",
-    "Phoenix/Book club.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
