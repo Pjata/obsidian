@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog/Tech Debt.md",
+                "file": "OnCall check and prio list.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-08.md",
+                "file": "1on1s/Lasszo/Cycle time.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Lasszo/Cycle time.md",
+                "file": "Daily logs/2023-05-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -80,6 +80,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalog/Tech Debt.md",
+                "file": "1on1s/Lasszo/Cycle time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalog/Tech Debt.md",
+                "file": "1on1s/Lasszo/Cycle time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catalog/Tech Debt.md"
+                "file": "1on1s/Lasszo/Cycle time.md"
               }
             }
           },
@@ -223,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,24 +238,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f8ba0f0503691f5",
+  "active": "26e441263f77072e",
   "lastOpenFiles": [
-    "OnCall check and prio list.md",
+    "Commons multi region/One pager for Commons multi region migration.md",
     "1on1s/Lasszo/Cycle time.md",
+    "Daily logs/2023-05-08.md",
+    "Daily logs/2023-05-11.md",
+    "OnCall check and prio list.md",
+    "Multi code promotion.md",
+    "Catalog/Tech Debt.md",
     "Daily logs/2023-05-15.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/Tamas/Tamas pandamonium.md",
-    "Daily logs/2023-05-11.md",
     "Daily logs/2023-05-10.md",
-    "Multi code promotion.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-05-09.md",
     "Catalog/Analytics/Analytics release.md",
     "Tasks.md",
     "1on1s/Kata/1on1 with Kata.md",
-    "Daily logs/2023-05-08.md",
     "Daily logs/2023-05-05.md",
     "Storefront pages rewrite.md",
     "Hackwee ideas.md",
@@ -262,8 +266,6 @@
     "Daily logs/2023-05-03.md",
     "Daily logs/2023-04-28.md",
     "Storefront mvp scope.md",
-    "1on1s/Bandi/1on1 with Bandi.md",
-    "1on1s/Balu/1on1 with Balu.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",

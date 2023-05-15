@@ -36,6 +36,10 @@ Blocked: 2023.01.17
 Inprogress: 2023.01.19
 Closed: 2023.01.30
 
+What did we learn?
+- Pair programming, shadowing, questions, regular check ins
+- Cut the ticket further -> discuss
+
 ## [backend] Generate Revenue report CSV
 
 
@@ -50,6 +54,11 @@ Feedback: 2023.02.13
 QA: 2023.02.14
 Closed: 2023.02.15
 
+What did we learn?
+- Earlier code review
+- Regular check ins
+- 
+
 ## [backend] Monitoring of CSV generation queue
 
 PHO-3958
@@ -62,6 +71,9 @@ Feedback: 2023.02.20
 Inprogress: 2023.02.21
 Feedback: 2023.02.22
 Closed: 2023.02.23
+
+What did we learn?
+- 
 
 ## [backend] Revenue CSV contains different number of rows than the table
 
