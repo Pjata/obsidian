@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-15.md",
+                "file": "OnCall checklist.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-05-15.md",
+                "file": "OnCall checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-05-15.md",
+                "file": "OnCall checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-05-15.md"
+                "file": "OnCall checklist.md"
               }
             }
           },
@@ -239,8 +239,9 @@
   },
   "active": "8628e2a6d0caccbf",
   "lastOpenFiles": [
-    "1on1s/Tamas/1on1 with Tamas.md",
     "Daily logs/2023-05-15.md",
+    "OnCall checklist.md",
+    "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/Tamas/Tamas pandamonium.md",
     "Daily logs/2023-05-11.md",
     "Daily logs/2023-05-10.md",
@@ -264,7 +265,6 @@
     "1on1s/Bandi/1on1 with Bandi.md",
     "1on1s/Lasszo/Cycle time.md",
     "1on1s/Balu/1on1 with Balu.md",
-    "Daily logs/2023-04-27.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
