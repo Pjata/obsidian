@@ -73,7 +73,7 @@ Feedback: 2023.02.22
 Closed: 2023.02.23
 
 What did we learn?
-- 
+- Act fast on received comments
 
 ## [backend] Revenue CSV contains different number of rows than the table
 
