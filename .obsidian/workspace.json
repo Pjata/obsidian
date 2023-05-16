@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commons multi region migration phase 2 points.md",
+                "file": "Catalog/Tech Debt.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commons multi region migration phase 2 points.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commons multi region migration phase 2 points.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog/Analytics/Analytics release.md",
-                "mode": "source",
+                "file": "Tasks.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commons multi region migration phase 2 points.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -224,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,10 +237,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26e441263f77072e",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "Daily logs/2023-05-16.md",
+    "Catalog/Tech Debt.md",
+    "Tasks.md",
+    "Catalog/Analytics/Analytics release.md",
     "Commons multi region migration phase 2 points.md",
+    "Daily logs/2023-05-16.md",
     "Daily logs/2023-05-15.md",
     "1on1s/Lasszo/Cycle time.md",
     "Commons multi region/One pager for Commons multi region migration.md",
@@ -249,7 +251,6 @@
     "Daily logs/2023-05-11.md",
     "OnCall check and prio list.md",
     "Multi code promotion.md",
-    "Catalog/Tech Debt.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/Tamas/Tamas pandamonium.md",
@@ -257,8 +258,6 @@
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-05-09.md",
-    "Catalog/Analytics/Analytics release.md",
-    "Tasks.md",
     "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-05-05.md",
     "Storefront pages rewrite.md",
