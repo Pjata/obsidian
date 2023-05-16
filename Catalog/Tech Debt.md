@@ -1,11 +1,14 @@
-- Catalog scaling policy
+- Ruby and Rails upgrade
+- Payment Redirector policy compliance (NFR)
+- Security NFR (?)
 - Certificate generation, caching
+- live events to cs 
+- payment redirector error logs and flow improvements
+- Catalog scaling policy
 - getting rid of Ember + Coffescript
 - Traceability (sentry) 
 - Legacy libraries and unmaintained updated
-- Ruby and Rails upgrade
 - Deployment + beta refresh automatizations
 - Vanity renewal flow improvements
 - commit flags
-- payment redirector error logs and flow improvements
-- live events to cs 
+
