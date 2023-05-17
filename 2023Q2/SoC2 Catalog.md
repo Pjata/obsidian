@@ -5,8 +5,7 @@
 * Alert for backup failures
 - [x] #task Review the items sent by Zsofi 📅 2023-04-03 ✅ 2023-04-03
 
-- http disabled investigate
-- encryption at rest
-- snapshot reporting (60d 60m)
-- snapshot validation proof
-- ping lacework timeline
+- http disabled investigate: we have to check if the http transit is either disabled or rerouted to https
+- encryption at rest: postgres data has to be encrypted at rest 
+- snapshot validation proof: we have to have a proof (yearly) that snapshots can be restored and works
+- ping lacework timeline: we have to have a timeline when lacework will be installed, currently dependens on fire team
