@@ -7,5 +7,6 @@
 
 - http disabled investigate
 - encryption at rest
-- snapshot reporting
+- snapshot reporting (60d 60m)
 - snapshot validation proof
+- ping lacework timeline
