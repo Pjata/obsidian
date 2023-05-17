@@ -6,3 +6,6 @@
 - [x] #task Review the items sent by Zsofi 📅 2023-04-03 ✅ 2023-04-03
 
 - http disabled investigate
+- encryption at rest
+- snapshot reporting
+- snapshot validation proof
