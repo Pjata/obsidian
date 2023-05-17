@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "2023Q2/SoC2 Catalog.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-05-17.md",
+                "file": "2023Q2/SoC2 Catalog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-05-17.md",
+                "file": "2023Q2/SoC2 Catalog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +205,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-17.md",
-                "mode": "source",
+                "file": "Tasks.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-05-17.md"
+                "file": "2023Q2/SoC2 Catalog.md"
               }
             }
           },
@@ -255,9 +255,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
     "Tasks.md",
+    "2023Q2/SoC2 Catalog.md",
+    "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-05-17.md",
     "Daily logs/2023-05-16.md",
     "Daily logs/2023-05-11.md",
@@ -277,12 +279,10 @@
     "1on1s/Tamas/Tamas pandamonium.md",
     "Daily logs/2023-05-10.md",
     "1on1s/Verho/1on1 with Verho.md",
-    "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-05-09.md",
     "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-05-05.md",
     "Storefront pages rewrite.md",
-    "Hackwee ideas.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
