@@ -15,5 +15,10 @@ waterfall and agile, does not felt positive the questioning from Tara, i feel a 
 - Heap
 
 ## 2023.05.16
-- canvas and learning
+
+- talked aobut general project health
+- do the minimum what was asked at the presentation meeting for tech backlog
+
+## 2023.05.23
+- canvas and learning 
 - 
