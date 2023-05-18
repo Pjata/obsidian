@@ -32,4 +32,5 @@
 
 ## 2023-05-18
 
-- 
+-  papertrail, access log on db level
+- find a date for summer
