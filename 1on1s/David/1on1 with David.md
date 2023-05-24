@@ -35,3 +35,6 @@
 -  papertrail, access log on db level
 - find a date for summer
 - [ ] #task create state chart for enrollment live events
+
+## 2023-05-24
+
