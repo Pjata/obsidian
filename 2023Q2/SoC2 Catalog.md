@@ -9,3 +9,8 @@
 - encryption at rest: postgres data has to be encrypted at rest 
 - snapshot validation proof: we have to have a proof (yearly) that snapshots can be restored and works
 - ping lacework timeline: we have to have a timeline when lacework will be installed, currently dependens on fire team
+
+
+https://docs.google.com/document/d/1jW9V3VlYSnUpX_WywInvfD7aycD5p6vE015f7LMh9qc/edit#
+
+- [ ] #task Ask fire team to test our monitors for backup failures 📅 2023-05-31
