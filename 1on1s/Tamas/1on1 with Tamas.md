@@ -20,3 +20,10 @@
 - gonna do a shadowing next week on on call
 - had a good documentation for ember
 - does not feel like doing alone the investigation
+
+## 2023.05.24
+
+- Craft was good
+- ranging from good to bad, some were hardcore, some were really beginner
+- commons migration was very good, for infrastructure knowledge
+- on call, 
