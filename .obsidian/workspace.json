@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "mode": "source",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md"
+                "file": "1on1s/Verho/1on1 with Verho.md"
               }
             }
           },
@@ -257,12 +257,12 @@
   },
   "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
+    "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-05-22.md",
     "Daily logs/2023-05-18.md",
     "1on1s/David/1on1 with David.md",
     "2023Q2/SoC2 Catalog.md",
     "Tasks.md",
-    "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-05-17.md",
     "Daily logs/2023-05-16.md",
     "Daily logs/2023-05-11.md",

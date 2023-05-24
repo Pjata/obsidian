@@ -23,4 +23,9 @@ outtakes:
 - phase2 own problem set start to finish
  - asked about book club
 
-## 
+## 2023-05-24
+
+- Craft was good
+- made picture, taking notes
+- making script from 0, have help for commons
+- Commons migration is on track, this work 
