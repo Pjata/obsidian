@@ -39,3 +39,5 @@ masters -> what do you think the avg income monthly ?
 - feels good and smooth to work with Lasszo on the promotions
 - planned together, implementation separately
 - helped CRs
+- Priorizations: QA + getting tickets to closed is the most productive way
+  If you feel unconfident, write down the plan, write down the results
