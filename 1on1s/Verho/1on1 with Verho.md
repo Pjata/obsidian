@@ -29,3 +29,4 @@ outtakes:
 - made picture, taking notes
 - making script from 0, have help for commons
 - Commons migration is on track, this work 
+- Talked about silos, demos would be preffered.
