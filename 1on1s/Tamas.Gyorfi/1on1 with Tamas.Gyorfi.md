@@ -21,4 +21,4 @@ waterfall and agile, does not felt positive the questioning from Tara, i feel a 
 
 ## 2023.05.23
 - canvas and learning 
-- 
+- - [ ] #task raise spam issues
