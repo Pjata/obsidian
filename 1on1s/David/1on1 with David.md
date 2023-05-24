@@ -38,3 +38,7 @@
 
 ## 2023-05-24
 
+- Talked about the interesting challenges
+- ProServ payment provide last successful purchase 3 years ago
+- Talk about the payment upgrades with paypal payflow
+
