@@ -12,6 +12,7 @@
 - Talk about [[Usukh presentation]]
 
 ## 2023-04-12
+
 - worked on Canvas Java Client
 - Presentation: Question and pauses, skeleton is good. reiterate on the flow
 
@@ -28,3 +29,13 @@ masters -> what do you think the avg income monthly ?
 - Good presentation
 - liked the burnout presentation
 - we talked about though
+
+## 2023-05-24
+
+- Enjoying time without deadlines
+- Felt pressure for personally for analytics
+- ruby knowledge + domain knowledge increased
+- don't be afraid to even for a questions -1
+- feels good and smooth to work with Lasszo on the promotions
+- planned together, implementation separately
+- helped CRs
