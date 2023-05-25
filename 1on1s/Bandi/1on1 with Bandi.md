@@ -23,4 +23,4 @@ Give feedback for the [[One pager for Commons multi region migration]]
 ## 2023.05.25
 
 - Going good forward with the data migrations
-- 
+- talking about the battle plan of migrations
