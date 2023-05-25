@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-25.md",
+                "file": "1on1s/Balu/1on1 with Balu.md",
                 "mode": "source",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-05-25.md",
+                "file": "1on1s/Balu/1on1 with Balu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-05-25.md",
+                "file": "1on1s/Balu/1on1 with Balu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-05-25.md"
+                "file": "1on1s/Balu/1on1 with Balu.md"
               }
             }
           },
@@ -257,8 +257,8 @@
   },
   "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
-    "Meeting minutes for Service Review.md",
     "Daily logs/2023-05-25.md",
+    "Meeting minutes for Service Review.md",
     "2023Q2/SoC2 Catalog.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/David/1on1 with David.md",
