@@ -19,3 +19,8 @@ Give feedback for the [[One pager for Commons multi region migration]]
 
 - going to gorzium (floraia)
 - 
+
+## 2023.05.25
+
+- Going good forward with the data migrations
+- 
