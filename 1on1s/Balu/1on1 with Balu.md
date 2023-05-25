@@ -14,3 +14,5 @@
 
 ## 2023.05.25
 
+-  Lasszo needs more handholding
+- 
