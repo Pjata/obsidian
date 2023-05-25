@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Bandi/1on1 with Bandi.md",
+                "file": "Daily logs/2023-05-25.md",
                 "mode": "source",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Bandi/1on1 with Bandi.md",
+                "file": "Daily logs/2023-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Bandi/1on1 with Bandi.md",
+                "file": "Daily logs/2023-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Bandi/1on1 with Bandi.md"
+                "file": "Daily logs/2023-05-25.md"
               }
             }
           },
@@ -255,11 +255,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6353095e981f846a",
+  "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Daily logs/2023-05-25.md",
+    "1on1s/Bandi/1on1 with Bandi.md",
     "Catalog/Tech Debt.md",
     "1on1s/Balu/1on1 with Balu.md",
-    "Daily logs/2023-05-25.md",
     "Meeting minutes for Service Review.md",
     "2023Q2/SoC2 Catalog.md",
     "1on1s/Tamas/1on1 with Tamas.md",
@@ -270,7 +272,6 @@
     "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-05-22.md",
     "Daily logs/2023-05-18.md",
-    "Tasks.md",
     "Daily logs/2023-05-17.md",
     "Daily logs/2023-05-16.md",
     "Daily logs/2023-05-11.md",
@@ -282,7 +283,6 @@
     "1on1s/Lasszo/Cycle time.md",
     "Commons multi region/One pager for Commons multi region migration.md",
     "Daily logs/2023-05-08.md",
-    "OnCall check and prio list.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
