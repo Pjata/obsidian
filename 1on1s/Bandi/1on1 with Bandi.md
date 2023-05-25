@@ -24,3 +24,5 @@ Give feedback for the [[One pager for Commons multi region migration]]
 
 - Going good forward with the data migrations
 - talking about the battle plan of migrations
+- lets verho to go forward alone
+- 
