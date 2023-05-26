@@ -38,3 +38,6 @@
 - let go of feelings and focus on the task
 - lot of promotions learning
 - More specification: 
+- Linked topics about aiming for thinking about the aim for making designs that are easy to change
+- QA plan: more prep time
+- 
