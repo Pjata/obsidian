@@ -40,4 +40,5 @@
 - More specification: 
 - Linked topics about aiming for thinking about the aim for making designs that are easy to change
 - QA plan: more prep time
-- 
+- focus on more responsibility
+- talked about the hours
