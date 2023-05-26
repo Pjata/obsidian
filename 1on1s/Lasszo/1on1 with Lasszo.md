@@ -30,3 +30,11 @@
 - cycle time reduction
 - push for feedback and fixes
 - 
+
+## 2023-05-26
+
+- Early code reviews and questions
+- Learnings about promotions:
+- let go of feelings and focus on the task
+- lot of promotions learning
+- More specification: 

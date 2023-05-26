@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-25.md",
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
                 "mode": "source",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-05-25.md",
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-05-25.md",
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-05-25.md"
+                "file": "1on1s/Lasszo/1on1 with Lasszo.md"
               }
             }
           },
@@ -257,11 +257,13 @@
   },
   "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Daily logs/2023-05-26.md",
+    "1on1s/Balu/1on1 with Balu.md",
+    "1on1s/Lasszo/1on1 with Lasszo.md",
     "Daily logs/2023-05-25.md",
+    "Tasks.md",
     "1on1s/Bandi/1on1 with Bandi.md",
     "Catalog/Tech Debt.md",
-    "1on1s/Balu/1on1 with Balu.md",
     "Meeting minutes for Service Review.md",
     "2023Q2/SoC2 Catalog.md",
     "1on1s/Tamas/1on1 with Tamas.md",
@@ -281,8 +283,6 @@
     "Commons multi region migration phase 2 points.md",
     "Daily logs/2023-05-15.md",
     "1on1s/Lasszo/Cycle time.md",
-    "Commons multi region/One pager for Commons multi region migration.md",
-    "Daily logs/2023-05-08.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
