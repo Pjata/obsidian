@@ -4,7 +4,7 @@ Your number one priority is to make sure the product is stable.
 
 1. Check alerts channels (catalog-alerts, , investigate the alerts, see impact
 2. Check errors channels (catalog-errors, payments, commons-errors), investigate new sentry issues, see impact
-3. 
+
 # Release day
 
 1. Prepare for the release meeting the beta sheets
