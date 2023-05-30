@@ -1,0 +1,2 @@
+- Potentional latency increase for API course create
+- 
