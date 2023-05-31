@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2023-05-31.md"
               }
             }
           },
@@ -255,8 +255,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
+    "Tasks.md",
     "Daily logs/2023-05-31.md",
     "Storefront pages rewrite.md",
     "Daily logs/2023-05-30.md",
@@ -266,7 +267,6 @@
     "Daily logs/2023-05-26.md",
     "1on1s/Balu/1on1 with Balu.md",
     "Daily logs/2023-05-25.md",
-    "Tasks.md",
     "1on1s/Bandi/1on1 with Bandi.md",
     "Catalog/Tech Debt.md",
     "Meeting minutes for Service Review.md",
