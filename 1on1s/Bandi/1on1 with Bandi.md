@@ -25,4 +25,4 @@ Give feedback for the [[One pager for Commons multi region migration]]
 - Going good forward with the data migrations
 - talking about the battle plan of migrations
 - lets verho to go forward alone
-- [ ] #task Transfer motivosities 📅 2023-06-01
+- [x] #task Transfer motivosities 📅 2023-06-01 ✅ 2023-05-31
