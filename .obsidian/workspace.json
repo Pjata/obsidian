@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OnCall check and prio list.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3adfca1f2424dd7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1on1s/Kata/1on1 with Kata.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "26e441263f77072e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily logs/2023-05-16.md",
+                "file": "shard id issue.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-31.md",
+                "file": "Engineering meeting.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,7 +66,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -165,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-05-31.md",
+                "file": "shard id issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-05-31.md",
+                "file": "shard id issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-05-31.md"
+                "file": "shard id issue.md"
               }
             }
           },
@@ -255,19 +230,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24fd5a34f4d7af70",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
+    "Daily logs/2023-06-01.md",
+    "shard id issue.md",
+    "OnCall check and prio list.md",
     "Tasks.md",
+    "1on1s/Kata/1on1 with Kata.md",
+    "Daily logs/2023-05-16.md",
+    "Engineering meeting.md",
+    "1on1s/Lasszo/Cycle time.md",
+    "1on1s/Lasszo/1on1 with Lasszo.md",
+    "1on1s/Balu/1on1 with Balu.md",
+    "1on1s/Bandi/1on1 with Bandi.md",
     "Daily logs/2023-05-31.md",
     "Storefront pages rewrite.md",
     "Daily logs/2023-05-30.md",
-    "OnCall check and prio list.md",
     "release meeting for 2023.05.30.md",
-    "1on1s/Lasszo/1on1 with Lasszo.md",
     "Daily logs/2023-05-26.md",
-    "1on1s/Balu/1on1 with Balu.md",
     "Daily logs/2023-05-25.md",
-    "1on1s/Bandi/1on1 with Bandi.md",
     "Catalog/Tech Debt.md",
     "Meeting minutes for Service Review.md",
     "2023Q2/SoC2 Catalog.md",
@@ -277,12 +258,6 @@
     "Daily logs/2023-05-24.md",
     "1on1s/Verho/1on1 with Verho.md",
     "1on1s/Usukh/1on1 with Usukh.md",
-    "Daily logs/2023-05-22.md",
-    "Daily logs/2023-05-18.md",
-    "Daily logs/2023-05-17.md",
-    "Daily logs/2023-05-16.md",
-    "Daily logs/2023-05-11.md",
-    "Daily logs/2023-04-27.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
