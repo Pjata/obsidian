@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog Provisioner.md",
+                "file": "Catalog/DAP.md",
                 "mode": "source",
                 "source": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Catalog/DAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Catalog/DAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Catalog/DAP.md"
               }
             }
           },
@@ -230,14 +230,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Catalog Provisioner.md",
+    "Catalog/Trino, DAP, Catalog next steps.md",
     "Daily logs/2023-06-02.md",
+    "Meeting notes for Trino ",
+    "Catalog/DAP.md",
+    "Catalog Provisioner.md",
+    "Tasks.md",
     "shard id issue.md",
     "Daily logs/2023-06-01.md",
     "OnCall check and prio list.md",
-    "Tasks.md",
     "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-05-16.md",
     "Engineering meeting.md",
@@ -256,8 +259,6 @@
     "2023Q2/SoC2 Catalog.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "1on1s/David/1on1 with David.md",
-    "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
-    "Daily logs/2023-05-24.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
@@ -277,7 +278,6 @@
     "Phoenix",
     "2023Q2",
     "Templates",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }
