@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shard id issue.md",
+                "file": "Daily logs/2023-06-02.md",
                 "mode": "source",
                 "source": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shard id issue.md",
+                "file": "Daily logs/2023-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shard id issue.md",
+                "file": "Daily logs/2023-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shard id issue.md"
+                "file": "Daily logs/2023-06-02.md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2023-06-01.md",
     "shard id issue.md",
+    "Daily logs/2023-06-02.md",
+    "Daily logs/2023-06-01.md",
     "OnCall check and prio list.md",
     "Tasks.md",
     "1on1s/Kata/1on1 with Kata.md",
@@ -257,7 +258,6 @@
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "Daily logs/2023-05-24.md",
     "1on1s/Verho/1on1 with Verho.md",
-    "1on1s/Usukh/1on1 with Usukh.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
