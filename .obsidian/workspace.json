@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shard id issue.md",
+                "file": "Daily logs/2023-06-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -66,6 +66,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shard id issue.md",
+                "file": "Engineering meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shard id issue.md",
+                "file": "Engineering meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shard id issue.md"
+                "file": "Engineering meeting.md"
               }
             }
           },
@@ -230,15 +231,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f8ba0f0503691f5",
+  "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
+    "Daily logs/2023-06-03.md",
+    "shard id issue.md",
     "Daily logs/2023-06-02.md",
     "Catalog/DAP.md",
     "Tasks.md",
     "Catalog/Trino, DAP, Catalog next steps.md",
     "Meeting notes for Trino ",
     "Catalog Provisioner.md",
-    "shard id issue.md",
     "Daily logs/2023-06-01.md",
     "OnCall check and prio list.md",
     "1on1s/Kata/1on1 with Kata.md",
@@ -258,7 +260,6 @@
     "Meeting minutes for Service Review.md",
     "2023Q2/SoC2 Catalog.md",
     "1on1s/Tamas/1on1 with Tamas.md",
-    "1on1s/David/1on1 with David.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
