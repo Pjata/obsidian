@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tasks.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-06-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2023-06-06.md"
               }
             }
           },
@@ -231,8 +231,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00ff6e8c9a57a5cc",
+  "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
+    "Tasks.md",
     "Daily logs/2023-06-06.md",
     "Catalog/Tech Debt.md",
     "shard id issue.md",
@@ -241,7 +242,6 @@
     "Daily logs/2023-06-03.md",
     "Daily logs/2023-06-02.md",
     "Catalog/DAP.md",
-    "Tasks.md",
     "Catalog/Trino, DAP, Catalog next steps.md",
     "Meeting notes for Trino ",
     "Catalog Provisioner.md",
