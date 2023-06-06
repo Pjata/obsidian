@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-06-06.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-06-06.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-06-06.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -231,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24fd5a34f4d7af70",
+  "active": "00ff6e8c9a57a5cc",
   "lastOpenFiles": [
-    "Catalog/Tech Debt.md",
     "Daily logs/2023-06-06.md",
+    "Catalog/Tech Debt.md",
     "shard id issue.md",
     "Daily logs/2023-06-05.md",
     "Engineering meeting.md",
