@@ -47,4 +47,4 @@
 
 - Planning on wednesday
 - feels hajtas
-- 
+- [ ] #task ask zsofi about current revenue model and latam / eu payment provider + customers
