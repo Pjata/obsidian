@@ -45,4 +45,4 @@ masters -> what do you think the avg income monthly ?
 ## 2023-06-07
 
 - Shopping cart feature flag migration was new thing
-- playing with 
+- 
