@@ -41,3 +41,8 @@ masters -> what do you think the avg income monthly ?
 - helped CRs
 - Priorizations: QA + getting tickets to closed is the most productive way
   If you feel unconfident, write down the plan, write down the results
+
+## 2023-06-07
+
+- Shopping cart feature flag migration was new thing
+- playing with 
