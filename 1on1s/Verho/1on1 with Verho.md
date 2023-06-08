@@ -35,3 +35,4 @@ outtakes:
 
 - Feels good about the project
 - Talked with Bandi
+- 
