@@ -33,3 +33,5 @@ outtakes:
 
 ## 2023-06-08
 
+- Feels good about the project
+- Talked with Bandi
