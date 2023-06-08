@@ -30,3 +30,6 @@ outtakes:
 - making script from 0, have help for commons
 - Commons migration is on track, this work 
 - Talked about silos, demos would be preffered.
+
+## 2023-06-08
+
