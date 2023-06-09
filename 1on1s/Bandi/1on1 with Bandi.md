@@ -30,4 +30,5 @@ Give feedback for the [[One pager for Commons multi region migration]]
 
 ## 2023.06.09
 
-- Outcomes -> graduality 
+- Outcomes -> graduality, 
+- Weekly commitment, goal of the weekly commintents are to have common understanding of the goals and problems for the week and to have a focus on what can be delivered
