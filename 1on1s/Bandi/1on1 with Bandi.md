@@ -30,4 +30,4 @@ Give feedback for the [[One pager for Commons multi region migration]]
 
 ## 2023.06.09
 
-- 
+- Outcomes -> graduality 
