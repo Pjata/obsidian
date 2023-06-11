@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-06-09.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-06-09.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-06-09.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -231,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24fd5a34f4d7af70",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "1on1s/Bandi/1on1 with Bandi.md",
     "Daily logs/2023-06-09.md",
+    "1on1s/Bandi/1on1 with Bandi.md",
     "1on1s/Verho/1on1 with Verho.md",
     "Daily logs/2023-06-08.md",
     "1on1s/David/1on1 with David.md",
