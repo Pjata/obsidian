@@ -1,1 +1,2 @@
 - Fejben elprobaltam -> 
+- fejlesztes + utana teszteles
