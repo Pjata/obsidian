@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-06-12.md",
+                "file": "Daily logs/2023-06-13.md",
                 "mode": "source",
                 "source": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2023-06-13.md"
               }
             }
           },
@@ -231,12 +231,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
     "Daily logs/2023-06-12.md",
+    "Daily logs/2023-06-13.md",
+    "Tasks.md",
     "retro for commons multi region.md",
     "Daily logs/2023-06-09.md",
-    "Tasks.md",
     "1on1s/Bandi/1on1 with Bandi.md",
     "1on1s/Verho/1on1 with Verho.md",
     "Daily logs/2023-06-08.md",
@@ -259,7 +260,6 @@
     "OnCall check and prio list.md",
     "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-05-16.md",
-    "1on1s/Lasszo/Cycle time.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
