@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-06-03.md",
+                "file": "Daily logs/2023-06-14.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +76,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -241,12 +240,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e43172df2f9a5dc9",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
+    "Daily logs/2023-06-03.md",
+    "Tasks.md",
     "Daily logs/2023-06-13.md",
     "Daily logs/2023-06-14.md",
     "Daily logs/2023-06-12.md",
-    "Tasks.md",
     "retro for commons multi region.md",
     "Daily logs/2023-06-09.md",
     "1on1s/Bandi/1on1 with Bandi.md",
@@ -261,7 +261,6 @@
     "shard id issue.md",
     "Daily logs/2023-06-05.md",
     "Engineering meeting.md",
-    "Daily logs/2023-06-03.md",
     "Daily logs/2023-06-02.md",
     "Catalog/DAP.md",
     "Catalog/Trino, DAP, Catalog next steps.md",
