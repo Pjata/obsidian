@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "e43172df2f9a5dc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "00ff6e8c9a57a5cc",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -231,7 +241,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24fd5a34f4d7af70",
+  "active": "e43172df2f9a5dc9",
   "lastOpenFiles": [
     "Daily logs/2023-06-13.md",
     "Daily logs/2023-06-14.md",
