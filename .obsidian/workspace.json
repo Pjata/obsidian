@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-06-16.md",
+                "file": "Daily logs/2023-06-19.md",
                 "mode": "source",
                 "source": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-06-16.md",
+                "file": "Daily logs/2023-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-06-16.md",
+                "file": "Daily logs/2023-06-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-06-16.md"
+                "file": "Daily logs/2023-06-19.md"
               }
             }
           },
@@ -242,8 +242,9 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2023-06-15.md",
     "Daily logs/2023-06-16.md",
+    "Daily logs/2023-06-19.md",
+    "Daily logs/2023-06-15.md",
     "Daily logs/2023-06-14.md",
     "Daily logs/2023-06-03.md",
     "Tasks.md",
@@ -268,7 +269,6 @@
     "Catalog/Trino, DAP, Catalog next steps.md",
     "Meeting notes for Trino ",
     "Catalog Provisioner.md",
-    "Daily logs/2023-06-01.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
