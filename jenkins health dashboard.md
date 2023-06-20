@@ -1,3 +1,7 @@
+It is available here:
+https://inst.splunkcloud.com/en-US/app/search/catalog_jenkins_build_healths?form.global_time.earliest=-7d%40h&form.global_time.latest=now
+
+
 ```
  | dedup build_url
                 | fields job_result
