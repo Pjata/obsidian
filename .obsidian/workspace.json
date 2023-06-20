@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-06-19.md",
+                "file": "Daily logs/2023-06-20.md",
                 "mode": "source",
                 "source": true
               }
@@ -242,6 +242,7 @@
   },
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "Daily logs/2023-06-20.md",
     "Daily logs/2023-06-19.md",
     "Tasks.md",
     "Daily logs/2023-06-16.md",
@@ -268,7 +269,6 @@
     "Catalog/DAP.md",
     "Catalog/Trino, DAP, Catalog next steps.md",
     "Meeting notes for Trino ",
-    "Catalog Provisioner.md",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
     "Pasted image 20230423162916.png",
