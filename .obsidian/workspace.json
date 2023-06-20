@@ -88,7 +88,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalog Data Inconsistencies.md",
+                "file": "Daily logs/2023-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalog Data Inconsistencies.md",
+                "file": "Daily logs/2023-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catalog Data Inconsistencies.md"
+                "file": "Daily logs/2023-06-20.md"
               }
             }
           },
@@ -253,10 +252,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e1093ef4095b425a",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2023-06-20.md",
     "Catalog Data Inconsistencies.md",
+    "Daily logs/2023-06-20.md",
     "jenkins health dashboard.md",
     "Tasks.md",
     "Daily logs/2023-06-19.md",
