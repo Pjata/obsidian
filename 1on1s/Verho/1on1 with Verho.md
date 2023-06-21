@@ -40,6 +40,6 @@ outtakes:
 ## 2023-06-21
 
 - lived in the export script
-- field testing what works
-- weekly commitments
+- field testing what works with a feature team
+- weekly commitments were good
 - 
