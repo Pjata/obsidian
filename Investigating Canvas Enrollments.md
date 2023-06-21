@@ -15,3 +15,4 @@ https://lucid.app/lucidspark/dea95517-51e6-4993-b962-daaab87caff0/edit?beaconFlo
 Course progress:
 Module progression is tied to the Canvas User and Course
 not sections
+https://github.com/instructure/canvas-lms/blob/afac17ac2b9f068b81117f5e8de4f01624966bf9/app/models/context_module_progressions/finder.rb#L44
