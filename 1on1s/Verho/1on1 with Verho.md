@@ -36,3 +36,10 @@ outtakes:
 - Feels good about the project
 - Talked with Bandi
 - 
+
+## 2023-06-21
+
+- lived in the export script
+- field testing what works
+- weekly commitments
+- 

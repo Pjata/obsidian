@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-06-20.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "mode": "source",
                 "source": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-06-20.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-06-20.md",
+                "file": "1on1s/Verho/1on1 with Verho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-06-20.md"
+                "file": "1on1s/Verho/1on1 with Verho.md"
               }
             }
           },
@@ -254,10 +254,10 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Catalog Data Inconsistencies.md",
-    "Daily logs/2023-06-20.md",
-    "jenkins health dashboard.md",
     "Tasks.md",
+    "Daily logs/2023-06-20.md",
+    "Catalog Data Inconsistencies.md",
+    "jenkins health dashboard.md",
     "Daily logs/2023-06-19.md",
     "Daily logs/2023-06-16.md",
     "Daily logs/2023-06-15.md",
