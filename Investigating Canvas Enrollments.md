@@ -1,0 +1,5 @@
+- We tie Canvas Enrollments to Sections in Catalog
+- if no section id is given, it will use the default section
+- canvas enrollment will try to reuse enrollments before
+- there is a flag `allow_multiple_enrollments` 
+- 
