@@ -8,3 +8,10 @@ enrollment state -> https://github.com/instructure/canvas-lms/blob/master/app/mo
 
 enrollment state is basically a cache, was created for optimizing
 it mostly used for permissions, recalculated every 5 min
+
+
+https://lucid.app/lucidspark/dea95517-51e6-4993-b962-daaab87caff0/edit?beaconFlowId=4F814CDE47C67295&invitationId=inv_bd7ae4e5-fa90-4fc8-89cf-d1572c56d17b&page=0_0#
+
+Course progress:
+Module progression is tied to the Canvas User and Course
+not sections
