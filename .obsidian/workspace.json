@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-06-23.md",
+                "file": "storefront entry point.md",
                 "mode": "source",
                 "source": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "storefront entry point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "storefront entry point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "storefront entry point.md"
               }
             }
           },
@@ -239,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,14 +253,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "6353095e981f846a",
   "lastOpenFiles": [
     "Daily logs/2023-06-23.md",
+    "storefront entry point.md",
+    "Tasks.md",
     "Investigating Canvas Enrollments.md",
     "Daily logs/2023-06-21.md",
     "1on1s/David/1on1 with David.md",
     "1on1s/Verho/1on1 with Verho.md",
-    "Tasks.md",
     "Daily logs/2023-06-20.md",
     "Catalog Data Inconsistencies.md",
     "jenkins health dashboard.md",
@@ -279,7 +281,6 @@
     "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-06-06.md",
     "Catalog/Tech Debt.md",
-    "shard id issue.md",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
