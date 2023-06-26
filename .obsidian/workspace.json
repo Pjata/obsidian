@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-06-26.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "mode": "source",
                 "source": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-06-26.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-06-26.md",
+                "file": "1on1s/Bandi/1on1 with Bandi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-06-26.md"
+                "file": "1on1s/Bandi/1on1 with Bandi.md"
               }
             }
           },
@@ -255,8 +255,8 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Union biztosito.md",
     "Daily logs/2023-06-26.md",
+    "Union biztosito.md",
     "storefront entry point.md",
     "Daily logs/2023-06-23.md",
     "Tasks.md",

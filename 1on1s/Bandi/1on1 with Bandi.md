@@ -32,3 +32,8 @@ Give feedback for the [[One pager for Commons multi region migration]]
 
 - Outcomes -> graduality, 
 - Weekly commitment, goal of the weekly commintents are to have common understanding of the goals and problems for the week and to have a focus on what can be delivered
+
+
+## 2023.06.26
+- KISS everything, even the plans. 
+- plain english is better than codes
