@@ -49,3 +49,6 @@ masters -> what do you think the avg income monthly ?
 
 ## 2023-07-05
 
+- we talked about holiday
+- exporter was challenge, batches
+- 
