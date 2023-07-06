@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Daily logs/2023-07-06.md",
                 "mode": "source",
                 "source": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Daily logs/2023-07-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md",
+                "file": "Daily logs/2023-07-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Usukh/1on1 with Usukh.md"
+                "file": "Daily logs/2023-07-06.md"
               }
             }
           },
@@ -254,6 +254,8 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
+    "1on1s/Usukh/1on1 with Usukh.md",
+    "Daily logs/2023-07-06.md",
     "Daily logs/2023-07-05.md",
     "1on1s/David/1on1 with David.md",
     "Achievments for  Q1/Q1, Q2.md",
@@ -279,8 +281,6 @@
     "Daily logs/2023-06-15.md",
     "Daily logs/2023-06-14.md",
     "Daily logs/2023-06-03.md",
-    "Daily logs/2023-06-13.md",
-    "Daily logs/2023-06-12.md",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
