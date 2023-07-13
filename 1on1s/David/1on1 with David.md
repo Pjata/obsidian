@@ -58,3 +58,4 @@
 
 
 meeting minutes
+always deployable
