@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/David/1on1 with David.md",
+                "file": "Daily logs/2023-07-27.md",
                 "mode": "source",
                 "source": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/David/1on1 with David.md",
+                "file": "Daily logs/2023-07-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/David/1on1 with David.md",
+                "file": "Daily logs/2023-07-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/David/1on1 with David.md"
+                "file": "Daily logs/2023-07-27.md"
               }
             }
           },
@@ -254,6 +254,10 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
+    "Estimates.md",
+    "Daily logs/2023-07-27.md",
+    "Daily logs/2023-07-17.md",
+    "1on1s/David/1on1 with David.md",
     "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-07-10.md",
     "Tasks.md",
@@ -261,7 +265,6 @@
     "Daily logs/2023-07-06.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-07-05.md",
-    "1on1s/David/1on1 with David.md",
     "Achievments for  Q1/Q1, Q2.md",
     "Achievments for  Q1",
     "Daily logs/2023-07-04.md",
@@ -278,9 +281,6 @@
     "Daily logs/2023-06-20.md",
     "Catalog Data Inconsistencies.md",
     "jenkins health dashboard.md",
-    "Daily logs/2023-06-19.md",
-    "Daily logs/2023-06-16.md",
-    "Daily logs/2023-06-15.md",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
