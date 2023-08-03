@@ -1,0 +1,7 @@
+- Running the meetings more tightly:
+  - write agenda
+  - have a clear goal for the meeting
+  - have a plan how we get there
+  - the end result / action items should be written down
+  - delegate taking meeting notes
+  - 
