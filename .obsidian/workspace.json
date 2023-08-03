@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-07-31.md",
+                "file": "Daily logs/2023-08-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-07-31.md",
+                "file": "Daily logs/2023-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-07-31.md",
+                "file": "Daily logs/2023-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-07-31.md"
+                "file": "Daily logs/2023-08-03.md"
               }
             }
           },
@@ -254,8 +254,9 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Tasks.md",
     "Daily logs/2023-07-31.md",
+    "Daily logs/2023-08-03.md",
+    "Tasks.md",
     "hackweek video pr.md",
     "Daily logs/2023-07-28.md",
     "Daily logs/2023-07-27.md",
@@ -280,7 +281,6 @@
     "Daily logs/2023-06-23.md",
     "Investigating Canvas Enrollments.md",
     "Daily logs/2023-06-21.md",
-    "1on1s/Verho/1on1 with Verho.md",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
