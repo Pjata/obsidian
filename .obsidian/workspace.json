@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feedback to Kata.md",
+                "file": "Daily logs/2023-08-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feedback to Kata.md",
+                "file": "Daily logs/2023-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feedback to Kata.md",
+                "file": "Daily logs/2023-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feedback to Kata.md"
+                "file": "Daily logs/2023-08-03.md"
               }
             }
           },
@@ -254,8 +254,8 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2023-08-03.md",
     "Feedback to Kata.md",
+    "Daily logs/2023-08-03.md",
     "Daily logs/2023-07-31.md",
     "Tasks.md",
     "hackweek video pr.md",
