@@ -14,3 +14,11 @@
 https://docs.google.com/document/d/1jW9V3VlYSnUpX_WywInvfD7aycD5p6vE015f7LMh9qc/edit#
 
 - [x] #task Ask fire team to test our monitors for backup failures 📅 2023-05-31 ✅ 2023-05-25
+
+
+
+|   |
+|---|
+|Accounting of Access- Catalog|
+|Logging of access to personal information - Catalog|
+|Code and Configuration Change Evidence Sample - Catalog|
