@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPS.md",
+                "file": "Daily logs/2023-08-17.md",
                 "mode": "source",
                 "source": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPS.md",
+                "file": "Daily logs/2023-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPS.md",
+                "file": "Daily logs/2023-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPS.md"
+                "file": "Daily logs/2023-08-17.md"
               }
             }
           },
@@ -267,8 +267,9 @@
   },
   "active": "46adcec40ce84645",
   "lastOpenFiles": [
-    "Daily logs/2023-08-16.md",
     "NPS.md",
+    "Daily logs/2023-08-17.md",
+    "Daily logs/2023-08-16.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "Daily logs/2023-08-09.md",
@@ -293,7 +294,6 @@
     "Daily logs/2023-07-05.md",
     "Achievments for  Q1/Q1, Q2.md",
     "Achievments for  Q1",
-    "Daily logs/2023-07-04.md",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
     "Pasted image 20230423163130.png",
