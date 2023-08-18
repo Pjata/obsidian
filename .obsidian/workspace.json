@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-08-16.md",
+                "file": "Daily logs/2023-08-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-08-17.md",
+                "file": "Daily logs/2023-08-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -100,7 +100,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-08-17.md",
+                "file": "Daily logs/2023-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-08-17.md",
+                "file": "Daily logs/2023-08-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-08-17.md"
+                "file": "Daily logs/2023-08-18.md"
               }
             }
           },
@@ -265,11 +264,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46adcec40ce84645",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "NPS.md",
-    "Daily logs/2023-08-17.md",
     "Daily logs/2023-08-16.md",
+    "Daily logs/2023-08-18.md",
+    "Daily logs/2023-08-17.md",
+    "NPS.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "1on1s/Tamas/1on1 with Tamas.md",
     "Daily logs/2023-08-09.md",
@@ -292,7 +292,6 @@
     "Daily logs/2023-07-06.md",
     "1on1s/Usukh/1on1 with Usukh.md",
     "Daily logs/2023-07-05.md",
-    "Achievments for  Q1/Q1, Q2.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
