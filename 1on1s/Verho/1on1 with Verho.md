@@ -43,3 +43,7 @@ outtakes:
 - field testing what works with a feature team
 - weekly commitments were good
 - 
+
+## 2023-09-07
+
+- dashboards
