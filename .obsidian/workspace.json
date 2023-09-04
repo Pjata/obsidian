@@ -110,9 +110,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4bd1cefb23710fc8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 9,
         "stacked": true
       }
     ],
@@ -187,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +237,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
-                "mode": "preview",
+                "file": "Daily logs/2023-09-04.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -239,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2023-09-04.md"
               }
             }
           },
