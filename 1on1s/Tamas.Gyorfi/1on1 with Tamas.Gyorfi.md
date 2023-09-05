@@ -28,3 +28,10 @@ waterfall and agile, does not felt positive the questioning from Tara, i feel a 
  * Canvas.NET login issues
  * Custom dev request https://instructure.atlassian.net/browse/PFS-22147?focusedCommentId=1928744
  * DAP issues sync
+
+
+## 2023.09.05
+
+* DAP retro and planning
+* Commons maint. mode
+* 
