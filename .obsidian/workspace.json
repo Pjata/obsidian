@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-09-05.md",
+                "file": "Daily logs/2023-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-09-05.md",
+                "file": "Daily logs/2023-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +205,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-09-04.md",
-                "mode": "source",
+                "file": "Tasks.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-09-05.md"
+                "file": "Daily logs/2023-09-04.md"
               }
             }
           },
@@ -255,12 +255,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8628e2a6d0caccbf",
+  "active": "a56c92c81fdacf62",
   "lastOpenFiles": [
-    "Daily logs/2023-05-15.md",
     "Daily logs/2023-09-05.md",
-    "Daily logs/2023-09-04.md",
     "Tasks.md",
+    "Daily logs/2023-09-04.md",
+    "Daily logs/2023-05-15.md",
     "1on1s/Verho/1on1 with Verho.md",
     "Daily logs/2023-08-16.md",
     "Daily logs/2023-08-18.md",
