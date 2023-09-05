@@ -78,51 +78,19 @@
             }
           },
           {
-            "id": "00ff6e8c9a57a5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "09b0f4ba47be23e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
             "id": "8628e2a6d0caccbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-05-15.md",
+                "file": "Daily logs/2023-09-05.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "4bd1cefb23710fc8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
-        "currentTab": 9,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -197,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-09-04.md",
+                "file": "Daily logs/2023-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-09-04.md",
+                "file": "Daily logs/2023-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-09-04.md"
+                "file": "Daily logs/2023-09-05.md"
               }
             }
           },
@@ -287,8 +255,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "8628e2a6d0caccbf",
   "lastOpenFiles": [
+    "Daily logs/2023-05-15.md",
+    "Daily logs/2023-09-05.md",
     "Daily logs/2023-09-04.md",
     "Tasks.md",
     "1on1s/Verho/1on1 with Verho.md",
@@ -313,8 +283,6 @@
     "1on1s/David/1on1 with David.md",
     "1on1s/Kata/1on1 with Kata.md",
     "Daily logs/2023-07-10.md",
-    "Daily logs/2023-07-07.md",
-    "Daily logs/2023-07-06.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
