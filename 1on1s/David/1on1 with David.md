@@ -64,3 +64,5 @@ always deployable
 ## 2023-09-06
 
 Half the team -> all of the capacity
+
+- [ ] #task ask about the budget for the self learning, online courses, workshops (5 online zoom workshop)
