@@ -59,3 +59,8 @@
 
 meeting minutes
 always deployable
+
+
+## 2023-09-06
+
+Half the team -> all of the capacity
