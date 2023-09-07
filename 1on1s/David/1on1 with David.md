@@ -66,3 +66,8 @@ always deployable
 Half the team -> all of the capacity
 
 - [ ] #task ask about the budget for the self learning, online courses, workshops (5 online zoom workshop)
+
+Feedback ->
+
+Communication is important, either written or said
+Have a clear way and stick to it.
