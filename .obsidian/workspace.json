@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-09-11.md",
+                "file": "DAP  meeting for contract between the team.md",
                 "mode": "source",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-09-11.md",
+                "file": "DAP  meeting for contract between the team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-09-11.md",
+                "file": "DAP  meeting for contract between the team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-09-11.md"
+                "file": "DAP  meeting for contract between the team.md"
               }
             }
           },
@@ -257,8 +257,10 @@
   },
   "active": "8628e2a6d0caccbf",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Daily logs/2023-09-13.md",
+    "DAP  meeting for contract between the team.md",
     "Daily logs/2023-09-11.md",
+    "Tasks.md",
     "Daily logs/2023-06-01.md",
     "Daily logs/2023-06-02.md",
     "Daily logs/2023-06-03.md",
@@ -281,8 +283,6 @@
     "Daily logs/2023-08-18.md",
     "Daily logs/2023-08-17.md",
     "Daily logs/2023-08-04.md",
-    "Daily logs/2023-08-03.md",
-    "Daily logs/2023-07-31.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
