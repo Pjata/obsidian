@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-09-14.md",
+                "file": "Meeting for 12 plan.md",
                 "mode": "source",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-09-14.md",
+                "file": "Meeting for 12 plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-09-14.md",
+                "file": "Meeting for 12 plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-09-14.md"
+                "file": "Meeting for 12 plan.md"
               }
             }
           },
@@ -257,8 +257,9 @@
   },
   "active": "8628e2a6d0caccbf",
   "lastOpenFiles": [
-    "Domain knowledge specifications.md",
     "Daily logs/2023-09-14.md",
+    "Meeting for 12 plan.md",
+    "Domain knowledge specifications.md",
     "DAP  meeting for contract between the team.md",
     "Daily logs/2023-09-13.md",
     "Daily logs/2023-09-11.md",
@@ -282,7 +283,6 @@
     "Daily logs/2023-07-03.md",
     "Daily logs/2023-07-02.md",
     "Daily logs/2023-08-16.md",
-    "Daily logs/2023-08-18.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
