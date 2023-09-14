@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain knowledge specifications.md",
+                "file": "Daily logs/2023-09-14.md",
                 "mode": "source",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain knowledge specifications.md",
+                "file": "Daily logs/2023-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain knowledge specifications.md",
+                "file": "Daily logs/2023-09-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain knowledge specifications.md"
+                "file": "Daily logs/2023-09-14.md"
               }
             }
           },
@@ -257,8 +257,8 @@
   },
   "active": "8628e2a6d0caccbf",
   "lastOpenFiles": [
-    "Daily logs/2023-09-14.md",
     "Domain knowledge specifications.md",
+    "Daily logs/2023-09-14.md",
     "DAP  meeting for contract between the team.md",
     "Daily logs/2023-09-13.md",
     "Daily logs/2023-09-11.md",
