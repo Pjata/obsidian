@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-09-15.md",
+                "file": "Catalog 2024.md",
                 "mode": "source",
                 "source": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Catalog 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Catalog 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Catalog 2024.md"
               }
             }
           },
@@ -277,16 +277,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "8578f6af740e7988",
   "lastOpenFiles": [
+    "Daily logs/2023-09-18.md",
+    "Catalog 2024.md",
     "Daily logs/2023-09-15.md",
+    "Tasks.md",
     "Meeting for 12 plan.md",
     "Daily logs/2023-09-14.md",
     "Domain knowledge specifications.md",
     "DAP  meeting for contract between the team.md",
     "Daily logs/2023-09-13.md",
     "Daily logs/2023-09-11.md",
-    "Tasks.md",
     "Daily logs/2023-06-01.md",
     "Daily logs/2023-06-02.md",
     "Daily logs/2023-06-03.md",
@@ -303,8 +305,6 @@
     "Daily logs/2023-07-06.md",
     "Daily logs/2023-07-05.md",
     "Daily logs/2023-07-04.md",
-    "Daily logs/2023-07-03.md",
-    "Daily logs/2023-07-02.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
