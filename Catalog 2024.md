@@ -6,3 +6,5 @@ Non traditional learning: flexible self paced learning, hybrid etc
 Customising learning experience.
 
 Catalog Canvas workflow is not so good, we need improvements.
+
+PR -> separate product
