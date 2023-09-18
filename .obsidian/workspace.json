@@ -95,9 +95,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog 2024.md",
+                "file": "Daily logs/2023-09-18.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "b95f07f5a7ff96b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
               }
             }
           }
@@ -177,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalog 2024.md",
+                "file": "Daily logs/2023-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalog 2024.md",
+                "file": "Daily logs/2023-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catalog 2024.md"
+                "file": "Daily logs/2023-09-18.md"
               }
             }
           },
