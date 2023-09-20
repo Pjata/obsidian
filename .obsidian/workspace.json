@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-09-18.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-09-18.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-09-18.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -287,10 +287,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8578f6af740e7988",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "Tasks.md",
     "Daily logs/2023-09-18.md",
+    "Tasks.md",
     "Catalog 2024.md",
     "Daily logs/2023-09-15.md",
     "Meeting for 12 plan.md",
