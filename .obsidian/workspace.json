@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-09-18.md",
+                "file": "Daily logs/2023-09-21.md",
                 "mode": "source",
                 "source": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-09-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-09-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2023-09-21.md"
               }
             }
           },
@@ -287,9 +287,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "8578f6af740e7988",
   "lastOpenFiles": [
     "Daily logs/2023-09-18.md",
+    "Daily logs/2023-09-21.md",
     "Tasks.md",
     "Catalog 2024.md",
     "Daily logs/2023-09-15.md",
@@ -314,7 +315,6 @@
     "Daily logs/2023-07-07.md",
     "Daily logs/2023-07-06.md",
     "Daily logs/2023-07-05.md",
-    "Daily logs/2023-07-04.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
