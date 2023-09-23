@@ -27,3 +27,9 @@ Satoru Iwata
 This material may be protected by copyright.
 
 
+“When I’m really hooked on something, as long as I can figure out what got me hooked, I can take that process and apply it elsewhere as a way of drumming up interest.”
+
+Excerpt From
+Ask Iwata
+Satoru Iwata
+This material may be protected by copyright.
