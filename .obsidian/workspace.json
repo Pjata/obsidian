@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2023-06-14.md"
               }
             }
           },
@@ -274,7 +274,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,12 +288,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
+    "Tasks.md",
     "Meeting for DAP release.md",
     "Daily logs/2023-09-26.md",
     "Ivata notes.md",
-    "Tasks.md",
     "Daily logs/2023-09-21.md",
     "Daily logs/2023-09-18.md",
     "Catalog 2024.md",
