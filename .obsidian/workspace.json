@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-06-14.md",
+                "file": "Query for e2e failures.md",
                 "mode": "source",
                 "source": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-06-14.md",
+                "file": "Query for e2e failures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-06-14.md",
+                "file": "Query for e2e failures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-06-14.md"
+                "file": "Query for e2e failures.md"
               }
             }
           },
@@ -290,6 +290,9 @@
   },
   "active": "24fd5a34f4d7af70",
   "lastOpenFiles": [
+    "Daily logs/2023-09-28.md",
+    "Query for e2e failures.md",
+    "Daily logs/2023-06-14.md",
     "Tasks.md",
     "Meeting for DAP release.md",
     "Daily logs/2023-09-26.md",
@@ -313,9 +316,6 @@
     "Daily logs/2023-06-16.md",
     "Daily logs/2023-06-26.md",
     "Daily logs/2023-06-19.md",
-    "Daily logs/2023-06-20.md",
-    "Daily logs/2023-06-21.md",
-    "Daily logs/2023-06-23.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
