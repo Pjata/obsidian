@@ -71,9 +71,11 @@
             "id": "8e2763eab22d168b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Capacity for 2023Q3.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -175,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Query for e2e failures.md",
+                "file": "Capacity for 2023Q3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Query for e2e failures.md",
+                "file": "Capacity for 2023Q3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Query for e2e failures.md"
+                "file": "Capacity for 2023Q3.md"
               }
             }
           },
@@ -278,6 +280,8 @@
   },
   "active": "8e2763eab22d168b",
   "lastOpenFiles": [
+    "Daily logs/2023-10-02.md",
+    "Capacity for 2023Q3.md",
     "Daily logs/2023-09-28.md",
     "Query for e2e failures.md",
     "Daily logs/2023-06-14.md",
@@ -302,8 +306,6 @@
     "Daily logs/2023-06-08.md",
     "Daily logs/2023-06-15.md",
     "Daily logs/2023-06-16.md",
-    "Daily logs/2023-06-26.md",
-    "Daily logs/2023-06-19.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
