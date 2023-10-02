@@ -1,16 +1,16 @@
-project = "PHO" AND resolutiondate >= "2023/07/01" AND
-( "Epic Link"="PHO-4909" OR 
-"Epic Link"="PHO-4905" OR
-"Epic Link"="PHO-4906" OR
-"Epic Link"="PHO-4950" OR
-"Epic Link"="PHO-4951" OR
-"Epic Link"="PHO-4908" OR
-"Epic Link"="PHO-4952" OR
-"Epic Link"="PHO-4965" OR
-"Epic Link"="PHO-4829" OR
-"Epic Link"="PHO-4957" OR
-"Epic Link"="PHO-4958" OR
-"Epic Link"="PHO-3802" 
+project = "PHO" AND resolutiondate >= "2023/07/01" AND type="Story" AND
+( "Epic Link"!="PHO-4909" AND 
+"Epic Link"!="PHO-4905" AND
+"Epic Link"!="PHO-4906" AND
+"Epic Link"!="PHO-4950" AND
+"Epic Link"!="PHO-4951" AND
+"Epic Link"!="PHO-4908" AND
+"Epic Link"!="PHO-4952" AND
+"Epic Link"!="PHO-4965" AND
+"Epic Link"!="PHO-4829" AND
+"Epic Link"!="PHO-4957" AND
+"Epic Link"!="PHO-4958" ANd
+"Epic Link"!="PHO-3802" 
 )
 ORDER BY created DESC
 
