@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capacity for 2023Q3.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capacity for 2023Q3.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capacity for 2023Q3.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -264,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,10 +277,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e2763eab22d168b",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "Daily logs/2023-10-02.md",
     "Capacity for 2023Q3.md",
+    "Daily logs/2023-10-02.md",
     "Daily logs/2023-09-28.md",
     "Query for e2e failures.md",
     "Daily logs/2023-06-14.md",
