@@ -1,3 +1,3 @@
 ```
-project = "PHO" AND type="Support Week Task" and resolutiondate>="2023/07/01" AND labels NOT IN (sw-accounts, sw-analytics, sw-analytics-deletion, sw-analytics-edit, sw-analytics-refund, sw-analytics-user_sync, sw-bulk_purchase, sw-customization, sw-question, sw-provision, sw-vanity, sw-vanity_renewal, sw-payments, sw-completion_sync, sw-emails, sw-timezone, sw-commons, sw-user_defined_fields, sw-certificates, sw-unprovision) ORDER BY created DESC
+project = "PHO" AND type="Support Week Task" and resolutiondate>="2023/07/01" AND labels NOT IN (sw-accounts, sw-analytics, sw-analytics-deletion, sw-analytics-edit, sw-analytics-refund, sw-analytics-user_sync, sw-bulk_purchase, sw-customization, sw-question, sw-provision, sw-vanity, sw-vanity_renewal, sw-payments, sw-completion_sync, sw-emails, sw-timezone, sw-commons, sw-user_defined_fields, sw-certificates, sw-unprovision, sw-waf, sw-promotions, sw-ember, sw-canvas_domain) ORDER BY created DESC
 ```
