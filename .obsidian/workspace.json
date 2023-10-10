@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Customer call.md",
+                "file": "Daily logs/2023-10-10.md",
                 "mode": "source",
                 "source": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Customer call.md",
+                "file": "Daily logs/2023-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Customer call.md",
+                "file": "Daily logs/2023-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Customer call.md"
+                "file": "Daily logs/2023-10-10.md"
               }
             }
           },
@@ -269,8 +269,9 @@
   },
   "active": "8e2763eab22d168b",
   "lastOpenFiles": [
-    "Daily logs/2023-10-05.md",
     "Customer call.md",
+    "Daily logs/2023-10-10.md",
+    "Daily logs/2023-10-05.md",
     "Jira Query for SW.md",
     "Daily logs/2023-10-04.md",
     "Meeting for 12 plan.md",
@@ -294,7 +295,6 @@
     "Daily logs/2023-09-11.md",
     "Daily logs/2023-06-01.md",
     "Daily logs/2023-06-02.md",
-    "Daily logs/2023-06-03.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
