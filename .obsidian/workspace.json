@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-10-10.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-10-10.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-10-10.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -267,10 +267,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e2763eab22d168b",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
-    "Customer call.md",
     "Daily logs/2023-10-10.md",
+    "Customer call.md",
     "Daily logs/2023-10-05.md",
     "Jira Query for SW.md",
     "Daily logs/2023-10-04.md",
