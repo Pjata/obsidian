@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-10-20.md",
+                "file": "Canvas full api token masq issue.md",
                 "mode": "source",
                 "source": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-10-20.md",
+                "file": "Canvas full api token masq issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-10-20.md",
+                "file": "Canvas full api token masq issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-10-20.md"
+                "file": "Canvas full api token masq issue.md"
               }
             }
           },
@@ -268,8 +268,9 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2023-08-18.md",
     "Daily logs/2023-10-20.md",
+    "Canvas full api token masq issue.md",
+    "Daily logs/2023-08-18.md",
     "Daily logs/2023-10-13.md",
     "Tasks.md",
     "Daily logs/2023-10-10.md",
@@ -293,7 +294,6 @@
     "Daily logs/2023-09-14.md",
     "Domain knowledge specifications.md",
     "DAP  meeting for contract between the team.md",
-    "Daily logs/2023-09-13.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
