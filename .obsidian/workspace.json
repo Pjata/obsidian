@@ -92,7 +92,6 @@
             }
           }
         ],
-        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-08-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +206,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
-                "mode": "preview",
+                "file": "Daily logs/2023-10-13.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2023-08-18.md"
               }
             }
           },
@@ -267,15 +266,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
+    "Daily logs/2023-10-13.md",
+    "Tasks.md",
     "Daily logs/2023-10-10.md",
     "Customer call.md",
     "Daily logs/2023-10-05.md",
     "Jira Query for SW.md",
     "Daily logs/2023-10-04.md",
     "Meeting for 12 plan.md",
-    "Tasks.md",
     "Capacity for 2023Q3.md",
     "Daily logs/2023-10-02.md",
     "Daily logs/2023-09-28.md",
@@ -294,7 +294,6 @@
     "Daily logs/2023-09-13.md",
     "Daily logs/2023-09-11.md",
     "Daily logs/2023-06-01.md",
-    "Daily logs/2023-06-02.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
