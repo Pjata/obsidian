@@ -35,3 +35,7 @@ waterfall and agile, does not felt positive the questioning from Tara, i feel a 
 * DAP retro and planning
 * Commons maint. mode
 * 
+
+## 2023.10.26
+
+Cost savings getting out of hand
