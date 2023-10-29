@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2023-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,8 +219,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
-                "mode": "preview",
+                "file": "Daily logs/2023-10-28.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2023-10-28.md"
               }
             }
           },
@@ -281,10 +281,11 @@
   },
   "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Daily logs/2023-10-28.md",
     "Daily logs/2023-10-27.md",
     "Daily logs/2023-10-26.md",
     "Canvas full api token masq issue.md",
-    "Tasks.md",
     "Daily logs/2023-10-13.md",
     "Daily logs/2023-10-20.md",
     "Daily logs/2023-08-18.md",
@@ -306,7 +307,6 @@
     "Daily logs/2023-09-18.md",
     "Catalog 2024.md",
     "Daily logs/2023-09-15.md",
-    "Daily logs/2023-09-14.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
