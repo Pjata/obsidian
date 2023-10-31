@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
+                "file": "Daily logs/2023-10-31.md",
                 "mode": "source",
                 "source": true
               }
@@ -104,7 +104,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-10-28.md",
+                "file": "Daily logs/2023-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-10-28.md",
+                "file": "Daily logs/2023-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-10-28.md",
+                "file": "Daily logs/2023-10-29.md",
                 "mode": "source",
                 "source": true
               }
@@ -231,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-10-28.md"
+                "file": "Daily logs/2023-10-31.md"
               }
             }
           },
@@ -279,10 +278,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Tasks.md",
+    "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
+    "Daily logs/2023-10-31.md",
+    "Daily logs/2023-10-29.md",
     "Daily logs/2023-10-28.md",
+    "Tasks.md",
     "Daily logs/2023-10-27.md",
     "Daily logs/2023-10-26.md",
     "Canvas full api token masq issue.md",
@@ -304,9 +306,6 @@
     "Daily logs/2023-09-26.md",
     "Ivata notes.md",
     "Daily logs/2023-09-21.md",
-    "Daily logs/2023-09-18.md",
-    "Catalog 2024.md",
-    "Daily logs/2023-09-15.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
