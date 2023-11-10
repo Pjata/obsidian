@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-10-31.md",
+                "file": "Daily logs/2023-11-10.md",
                 "mode": "source",
                 "source": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-11-06.md",
+                "file": "Daily logs/2023-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-11-06.md",
+                "file": "Daily logs/2023-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-11-06.md",
+                "file": "Daily logs/2023-11-08.md",
                 "mode": "source",
                 "source": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-11-06.md"
+                "file": "Daily logs/2023-11-10.md"
               }
             }
           },
@@ -278,14 +278,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2023-11-04.md",
+    "Daily logs/2023-10-31.md",
+    "Daily logs/2023-11-10.md",
+    "Daily logs/2023-11-08.md",
     "Daily logs/2023-11-06.md",
+    "Daily logs/2023-11-04.md",
     "Daily logs/2023-11-03.md",
     "Tasks.md",
     "Daily logs/2023-10-29.md",
-    "Daily logs/2023-10-31.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "Daily logs/2023-10-28.md",
     "Daily logs/2023-10-27.md",
@@ -304,8 +306,6 @@
     "Daily logs/2023-10-02.md",
     "Daily logs/2023-09-28.md",
     "Query for e2e failures.md",
-    "Daily logs/2023-06-14.md",
-    "Meeting for DAP release.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
