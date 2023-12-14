@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-12-08.md",
+                "file": "Promotion hackweek.md",
                 "mode": "source",
                 "source": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-12-08.md",
+                "file": "Promotion hackweek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-12-08.md",
+                "file": "Promotion hackweek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-12-08.md"
+                "file": "Promotion hackweek.md"
               }
             }
           },
@@ -280,8 +280,12 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Daily logs/2023-12-14.md",
+    "Achievments for  Q1/Q1, Q2.md",
+    "Promotion hackweek.md",
+    "Daily logs/2023-12-11.md",
     "Daily logs/2023-12-08.md",
+    "Tasks.md",
     "Daily logs/2023-12-07.md",
     "Daily logs/2023-11-29.md",
     "Daily logs/2023-11-26.md",
@@ -302,10 +306,6 @@
     "Daily logs/2023-10-20.md",
     "Daily logs/2023-08-18.md",
     "Daily logs/2023-10-10.md",
-    "Customer call.md",
-    "Daily logs/2023-10-05.md",
-    "Jira Query for SW.md",
-    "Daily logs/2023-10-04.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
