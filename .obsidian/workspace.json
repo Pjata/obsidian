@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promotion hackweek.md",
+                "file": "Catalog/2024/Cat3.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2023-12-08.md",
+                "file": "Catalog/2024/Cat3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2023-12-08.md",
+                "file": "Catalog/2024/Cat3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2023-12-08.md"
+                "file": "Catalog/2024/Cat3.md"
               }
             }
           },
@@ -206,14 +206,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
+    "Catalog 2024.md",
+    "Catalog/2024/Cat3.md",
+    "Catalog/2024",
     "Promotion hackweek.md",
+    "Daily logs/2023-12-08.md",
     "Daily logs/2023-08-18.md",
     "Daily logs/2023-12-14.md",
     "Achievments for  Q1/Q1, Q2.md",
     "Daily logs/2023-12-11.md",
-    "Daily logs/2023-12-08.md",
     "Tasks.md",
     "Daily logs/2023-12-07.md",
     "Daily logs/2023-11-29.md",
@@ -232,8 +235,6 @@
     "Daily logs/2023-10-26.md",
     "Canvas full api token masq issue.md",
     "Daily logs/2023-10-13.md",
-    "Daily logs/2023-10-20.md",
-    "Daily logs/2023-10-10.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
@@ -253,7 +254,6 @@
     "Personal",
     "Catalog",
     "Phoenix",
-    "2023Q2",
     "Untitled.canvas"
   ]
 }
