@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalog/2024/Cat3.md",
+                "file": "Daily logs/2024-01-02.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalog/2024/Cat3.md",
+                "file": "Daily logs/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalog/2024/Cat3.md",
+                "file": "Daily logs/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2023-12-08.md",
+                "file": "Tasks.md",
                 "mode": "preview",
                 "source": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catalog/2024/Cat3.md"
+                "file": "Daily logs/2024-01-02.md"
               }
             }
           },
@@ -208,16 +208,17 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Catalog 2024.md",
+    "Tasks.md",
+    "Daily logs/2023-12-08.md",
+    "Daily logs/2024-01-02.md",
     "Catalog/2024/Cat3.md",
+    "Catalog 2024.md",
     "Catalog/2024",
     "Promotion hackweek.md",
-    "Daily logs/2023-12-08.md",
     "Daily logs/2023-08-18.md",
     "Daily logs/2023-12-14.md",
     "Achievments for  Q1/Q1, Q2.md",
     "Daily logs/2023-12-11.md",
-    "Tasks.md",
     "Daily logs/2023-12-07.md",
     "Daily logs/2023-11-29.md",
     "Daily logs/2023-11-26.md",
@@ -234,7 +235,6 @@
     "Daily logs/2023-10-27.md",
     "Daily logs/2023-10-26.md",
     "Canvas full api token masq issue.md",
-    "Daily logs/2023-10-13.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
