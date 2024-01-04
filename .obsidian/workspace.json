@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2024-01-03.md",
+                "file": "Daily logs/2024-01-04.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2024-01-03.md",
+                "file": "Daily logs/2024-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2024-01-03.md",
+                "file": "Daily logs/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2024-01-03.md"
+                "file": "Daily logs/2024-01-04.md"
               }
             }
           },
@@ -208,10 +208,11 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2024-01-02.md",
-    "Daily logs/2024-01-03.md",
-    "Catalog/Enrollments.md",
     "Tasks.md",
+    "Daily logs/2024-01-04.md",
+    "Daily logs/2024-01-03.md",
+    "Daily logs/2024-01-02.md",
+    "Catalog/Enrollments.md",
     "Daily logs/2023-12-08.md",
     "Catalog/2024/Cat3.md",
     "Catalog 2024.md",
@@ -234,7 +235,6 @@
     "Daily logs/2023-10-29.md",
     "1on1s/Tamas.Gyorfi/1on1 with Tamas.Gyorfi.md",
     "Daily logs/2023-10-28.md",
-    "Daily logs/2023-10-27.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
