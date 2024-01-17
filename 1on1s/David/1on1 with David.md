@@ -71,3 +71,7 @@ Feedback ->
 
 Communication is important, either written or said
 Have a clear way and stick to it.
+
+## 2024-01-17
+
+Credentials
