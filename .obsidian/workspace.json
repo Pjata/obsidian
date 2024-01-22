@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1on1s/David/1on1 with David.md",
+                "file": "Daily logs/2024-01-22.md",
                 "mode": "source",
                 "source": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/David/1on1 with David.md",
+                "file": "Daily logs/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/David/1on1 with David.md",
+                "file": "Daily logs/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/David/1on1 with David.md"
+                "file": "Daily logs/2024-01-22.md"
               }
             }
           },
@@ -223,6 +223,8 @@
   },
   "active": "10a12677fa6bad50",
   "lastOpenFiles": [
+    "1on1s/David/1on1 with David.md",
+    "Daily logs/2024-01-22.md",
     "Daily logs/2024-01-17.md",
     "sandbox meeting.md",
     "Daily logs/2024-01-16.md",
@@ -248,8 +250,6 @@
     "Daily logs/2023-12-07.md",
     "Daily logs/2023-11-29.md",
     "Daily logs/2023-11-26.md",
-    "Daily logs/2023-11-18.md",
-    "Daily logs/2023-11-08.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
