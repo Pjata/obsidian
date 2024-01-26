@@ -2,4 +2,10 @@ https://docs.google.com/presentation/d/1bu6bmZTLrOKzzw_LgVwMxWZlera4leV8SEB5WDk2
 
 ePortfolio
 Student Pathways
-Ou
+Projects
+artifact
+experience
+submission
+badge
+reviewers
+scoring
