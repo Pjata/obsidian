@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfolium demo.md",
+                "file": "Workshop for non trad.md",
                 "mode": "source",
                 "source": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfolium demo.md",
+                "file": "Workshop for non trad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfolium demo.md",
+                "file": "Workshop for non trad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfolium demo.md"
+                "file": "Workshop for non trad.md"
               }
             }
           },
@@ -224,8 +224,10 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2024-01-05.md",
+    "Daily logs/2024-01-30.md",
+    "Workshop for non trad.md",
     "Portfolium demo.md",
+    "Daily logs/2024-01-05.md",
     "Daily logs/2024-01-26.md",
     "Daily logs/2024-01-25.md",
     "Daily logs/2024-01-22.md",
@@ -249,8 +251,6 @@
     "Promotion hackweek.md",
     "Daily logs/2023-08-18.md",
     "Daily logs/2023-12-14.md",
-    "Achievments for  Q1/Q1, Q2.md",
-    "Daily logs/2023-12-11.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
