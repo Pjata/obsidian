@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workshop for non trad.md",
+                "file": "salesforce.md",
                 "mode": "source",
                 "source": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workshop for non trad.md",
+                "file": "salesforce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workshop for non trad.md",
+                "file": "salesforce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workshop for non trad.md"
+                "file": "salesforce.md"
               }
             }
           },
@@ -224,8 +224,10 @@
   },
   "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2024-01-30.md",
+    "Daily logs/2024-01-31.md",
+    "salesforce.md",
     "Workshop for non trad.md",
+    "Daily logs/2024-01-30.md",
     "Portfolium demo.md",
     "Daily logs/2024-01-05.md",
     "Daily logs/2024-01-26.md",
@@ -249,8 +251,6 @@
     "Catalog 2024.md",
     "Catalog/2024",
     "Promotion hackweek.md",
-    "Daily logs/2023-08-18.md",
-    "Daily logs/2023-12-14.md",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
     "Pasted image 20230423163644.png",
