@@ -28,7 +28,7 @@
 
 ## 2023-04-25
 
-- [ ] #task push customers for paypal v2 📅 2022-05-27
+- [x] #task push customers for paypal v2 📅 2022-05-27 ✅ 2024-02-26
 
 ## 2023-05-18
 
@@ -47,7 +47,7 @@
 
 - Planning on wednesday
 - feels hajtas
-- [ ] #task ask zsofi about current revenue model and latam / eu payment provider + customers
+- [x] #task ask zsofi about current revenue model and latam / eu payment provider + customers ✅ 2024-02-26
 
 ## 2023-06-21
 
