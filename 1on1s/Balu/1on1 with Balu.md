@@ -20,4 +20,4 @@
 
 ## 2024.03.05
 
-
+- [ ] #task attention to detail for the new engineer, tech stack can be anything but closer to frontend
