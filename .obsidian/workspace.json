@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2024-03-01.md",
+                "file": "Daily logs/2024-03-05.md",
                 "mode": "source",
                 "source": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2024-03-01.md",
+                "file": "Daily logs/2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2024-03-01.md",
+                "file": "Daily logs/2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2024-03-01.md"
+                "file": "Daily logs/2024-03-05.md"
               }
             }
           },
@@ -224,8 +224,9 @@
   },
   "active": "10a12677fa6bad50",
   "lastOpenFiles": [
-    "Tasks.md",
     "Daily logs/2024-03-01.md",
+    "Daily logs/2024-03-05.md",
+    "Tasks.md",
     "Portfolium demo.md",
     "Daily logs/2023-08-18.md",
     "Daily logs/2024-02-21.md",
@@ -249,7 +250,6 @@
     "Daily logs/2024-01-09.md",
     "Daily logs/2024-01-08.md",
     "Daily logs/2024-01-03.md",
-    "Daily logs/2024-01-04.md",
     "Catalog/2024",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
