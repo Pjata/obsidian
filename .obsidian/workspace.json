@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2024-02-21.md",
+                "file": "1on1s/Balu/1on1 with Balu.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/2024-03-05.md",
+                "file": "1on1s/Balu/1on1 with Balu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/2024-03-05.md",
+                "file": "1on1s/Balu/1on1 with Balu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/2024-03-05.md"
+                "file": "1on1s/Balu/1on1 with Balu.md"
               }
             }
           },
@@ -222,14 +221,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10a12677fa6bad50",
+  "active": "5f8ba0f0503691f5",
   "lastOpenFiles": [
-    "Daily logs/2024-03-01.md",
+    "Daily logs/2024-02-21.md",
     "Daily logs/2024-03-05.md",
+    "Daily logs/2024-03-01.md",
     "Tasks.md",
     "Portfolium demo.md",
     "Daily logs/2023-08-18.md",
-    "Daily logs/2024-02-21.md",
     "Daily logs/2024-02-16.md",
     "Daily logs/2024-02-08.md",
     "Daily logs/2024-02-06.md",

@@ -14,5 +14,10 @@
 
 ## 2023.05.25
 
--  Lasszo needs more handholding
+- [ ] #task engineering meeting talk about daily before lunch
+- [ ] 
 - 
+
+## 2024.03.05
+
+
