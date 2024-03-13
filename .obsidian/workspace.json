@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/2024-03-07.md",
+                "file": "Daily logs/2024-03-13.md",
                 "mode": "source",
                 "source": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1on1s/Balu/1on1 with Balu.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1on1s/Balu/1on1 with Balu.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1on1s/Balu/1on1 with Balu.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -234,8 +234,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc04b3435975fd0c",
+  "active": "d8719f5eccd505f4",
   "lastOpenFiles": [
+    "Daily logs/2024-03-13.md",
     "Daily logs/2024-03-07.md",
     "Daily logs/2024-02-21.md",
     "Daily logs/2024-03-05.md",
@@ -261,7 +262,6 @@
     "Daily logs/2024-01-16.md",
     "Daily logs/2024-01-10.md",
     "Daily logs/2024-01-09.md",
-    "Daily logs/2024-01-08.md",
     "Catalog/2024",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
