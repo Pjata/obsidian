@@ -14,7 +14,7 @@
 
 ## 2023.05.25
 
-- [ ] #task engineering meeting talk about daily before lunch
+- [x] #task engineering meeting talk about daily before lunch ✅ 2024-03-18
 - [ ] 
 - 
 
