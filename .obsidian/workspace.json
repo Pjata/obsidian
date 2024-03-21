@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6afbc5299fb8989f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily logs/2024-03-21.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2024-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily logs/2024-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Daily logs/2024-03-21.md"
               }
             }
           },
@@ -234,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8719f5eccd505f4",
+  "active": "6afbc5299fb8989f",
   "lastOpenFiles": [
+    "Daily logs/2024-03-21.md",
     "Daily logs/2024-03-13.md",
     "Tasks.md",
     "Daily logs/2024-03-07.md",
@@ -261,7 +274,6 @@
     "sandbox meeting.md",
     "Daily logs/2024-01-16.md",
     "Daily logs/2024-01-10.md",
-    "Daily logs/2024-01-09.md",
     "Catalog/2024",
     "Achievments for  Q1",
     "Meeting notes for Trino ",
